@@ -1,7 +1,21 @@
-# sdg-to-article-skill
+<p align="center">
+  <img src="assets/sdgrepoimage.jpg" alt="sdg-to-article-skill banner" width="100%">
+</p>
 
-> Connect your research article or project to the UN Sustainable Development Goals —
-> with verified keywords, precise sentences, and ready-to-paste references.
+<h1 align="center">sdg-to-article-skill</h1>
+
+<p align="center">
+  <a href="CHANGELOG.md"><img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="Version 1.0.0"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License"></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.8+-3776AB.svg?logo=python&logoColor=white" alt="Python 3.8+"></a>
+  <a href="https://sdgs.un.org/goals"><img src="https://img.shields.io/badge/UN%20SDGs-17%20Goals-E5243B.svg?logo=unitednations&logoColor=white" alt="UN SDGs 17 Goals"></a>
+  <a href="#install"><img src="https://img.shields.io/badge/AI%20Tools-OpenCode%20%7C%20Claude%20%7C%20AGY-8A2BE2.svg" alt="Supported AI Tools"></a>
+</p>
+
+<p align="center">
+  Connect your research article, thesis, or project to the UN Sustainable Development Goals<br>
+  with verified keywords, precise sentences, and ready-to-paste references.
+</p>
 
 ---
 

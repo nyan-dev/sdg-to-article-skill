@@ -207,11 +207,9 @@ Exit codes: `0` all valid · `1` unknown keyword found · `2` no `{curly}` keywo
 
 ## About
 
-Built by a postgraduate research student at INTI International University, where every
-published paper must demonstrate contribution to the UN SDGs using keywords from INTI's
-official list. The original problem was a 1,634-keyword `.docx` that no AI tool could read
-reliably. This skill solves that — and is useful for anyone wanting to connect their work
-to the global sustainability agenda.
+Built with 💖 and opencode/claude/agy by @nyan-dev, a postgraduate research student at INTI International University.
+where published papers are encouraged to demonstrate contribution to the UN SDGs using keywords from INTI's official list. The original problem was a 1,634-keyword `.docx` that no AI tool could read
+reliably. This skill solves that — and is useful for anyone wanting to connect their work to the global sustainability agenda.
 
 **Keyword data:** INTI International University — revision 06 June 2025 · 17 goals · 1,634 terms  
 **Maintained by:** [@nyan-dev](https://github.com/nyan-dev)

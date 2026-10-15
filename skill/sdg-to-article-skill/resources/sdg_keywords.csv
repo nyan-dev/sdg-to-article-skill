@@ -1,0 +1,1644 @@
+# INTI SDG keyword list - canonical flat table
+# source_file: SDG Goals Keywords as of 060625.docx
+# source_revision: Revised on 06th June 2025
+# generated: 2026-10-14
+# 1634 terms across 17 goals
+#
+# source_delimiter records how INTI stores the term in their file:
+#   curly = {keyword} (Goals 1-12) | paren = (keyword) (Goals 13-17)
+# THIS SKILL ALWAYS WRITES CURLY BRACES regardless of source_delimiter.
+goal_number,goal_name,official_title,keyword,source_delimiter
+1,No poverty,No poverty,financial aid and poverty,curly
+1,No poverty,No poverty,financial aid and poor,curly
+1,No poverty,No poverty,financial aid and north-south divide,curly
+1,No poverty,No poverty,financial development and poverty,curly
+1,No poverty,No poverty,social protection and access,curly
+1,No poverty,No poverty,safety net and poor,curly
+1,No poverty,No poverty,safety net and vulnerable,curly
+1,No poverty,No poverty,economic resource and access,curly
+1,No poverty,No poverty,economic resources and access,curly
+1,No poverty,No poverty,extreme poverty,curly
+1,No poverty,No poverty,poverty alleviation,curly
+1,No poverty,No poverty,poverty eradication,curly
+1,No poverty,No poverty,poverty reduction,curly
+1,No poverty,No poverty,international poverty line,curly
+1,No poverty,No poverty,financial empowerment,curly
+1,No poverty,No poverty,distributional effect,curly
+1,No poverty,No poverty,distributional effects,curly
+1,No poverty,No poverty,child labor,curly
+1,No poverty,No poverty,child labour,curly
+1,No poverty,No poverty,development aid,curly
+1,No poverty,No poverty,social protection,curly
+1,No poverty,No poverty,social protection system,curly
+1,No poverty,No poverty,resilience of the poor,curly
+1,No poverty,No poverty,food bank,curly
+1,No poverty,No poverty,food banks,curly
+1,No poverty,No poverty,microfinance,curly
+1,No poverty,No poverty,micro-financ,curly
+2,Zero hunger,Zero hunger,smallholder and farm,curly
+2,Zero hunger,Zero hunger,smallholder and forestry,curly
+2,Zero hunger,Zero hunger,smallholder and pastoral,curly
+2,Zero hunger,Zero hunger,smallholder and agriculture,curly
+2,Zero hunger,Zero hunger,smallholder and fishery,curly
+2,Zero hunger,Zero hunger,smallholder and food producer,curly
+2,Zero hunger,Zero hunger,smallholder and food producers,curly
+2,Zero hunger,Zero hunger,agriculture and potassium,curly
+2,Zero hunger,Zero hunger,GMO and food,curly
+2,Zero hunger,Zero hunger,food security and genetic diversity,curly
+2,Zero hunger,Zero hunger,food market and restriction,curly
+2,Zero hunger,Zero hunger,food market and tariff,curly
+2,Zero hunger,Zero hunger,food market and access,curly
+2,Zero hunger,Zero hunger,food market and north south divide,curly
+2,Zero hunger,Zero hunger,food market and development governance,curly
+2,Zero hunger,Zero hunger,land tenure rights,curly
+2,Zero hunger,Zero hunger,malnourish,curly
+2,Zero hunger,Zero hunger,malnutrition,curly
+2,Zero hunger,Zero hunger,undernourish,curly
+2,Zero hunger,Zero hunger,undernutrition,curly
+2,Zero hunger,Zero hunger,agricultural production,curly
+2,Zero hunger,Zero hunger,agricultural productivity,curly
+2,Zero hunger,Zero hunger,agricultural practices,curly
+2,Zero hunger,Zero hunger,agricultural management,curly
+2,Zero hunger,Zero hunger,food production,curly
+2,Zero hunger,Zero hunger,food productivity,curly
+2,Zero hunger,Zero hunger,food security,curly
+2,Zero hunger,Zero hunger,food insecurity,curly
+2,Zero hunger,Zero hunger,land right,curly
+2,Zero hunger,Zero hunger,land rights,curly
+2,Zero hunger,Zero hunger,land reform,curly
+2,Zero hunger,Zero hunger,land reforms,curly
+2,Zero hunger,Zero hunger,resilient agricultural practices,curly
+2,Zero hunger,Zero hunger,fertili?er,curly
+2,Zero hunger,Zero hunger,food nutrition improvement,curly
+2,Zero hunger,Zero hunger,hidden hunger,curly
+2,Zero hunger,Zero hunger,genetically modified food,curly
+2,Zero hunger,Zero hunger,agroforestry practices,curly
+2,Zero hunger,Zero hunger,agroforestry management,curly
+2,Zero hunger,Zero hunger,agricultural innovation,curly
+2,Zero hunger,Zero hunger,food governance,curly
+2,Zero hunger,Zero hunger,food supply chain,curly
+2,Zero hunger,Zero hunger,food value chain,curly
+2,Zero hunger,Zero hunger,food commodity market,curly
+3,Good health and well-being,Good health and well-being,human health*,curly
+3,Good health and well-being,Good health and well-being,human disease*,curly
+3,Good health and well-being,Good health and well-being,human illness*,curly
+3,Good health and well-being,Good health and well-being,human medicine*,curly
+3,Good health and well-being,Good health and well-being,human mortality,curly
+3,Good health and well-being,Good health and well-being,battered child syndrome,curly
+3,Good health and well-being,Good health and well-being,cardiovascular disease,curly
+3,Good health and well-being,Good health and well-being,cardiovascular diseases,curly
+3,Good health and well-being,Good health and well-being,chagas,curly
+3,Good health and well-being,Good health and well-being,child abuse,curly
+3,Good health and well-being,Good health and well-being,child neglect,curly
+3,Good health and well-being,Good health and well-being,child well-being index,curly
+3,Good health and well-being,Good health and well-being,youth well-being index,curly
+3,Good health and well-being,Good health and well-being,child wellbeing index,curly
+3,Good health and well-being,Good health and well-being,youth wellbeing index,curly
+3,Good health and well-being,Good health and well-being,water-borne disease,curly
+3,Good health and well-being,Good health and well-being,water-borne diseases,curly
+3,Good health and well-being,Good health and well-being,water borne disease,curly
+3,Good health and well-being,Good health and well-being,water borne diseases,curly
+3,Good health and well-being,Good health and well-being,tropical disease,curly
+3,Good health and well-being,Good health and well-being,tropical diseases,curly
+3,Good health and well-being,Good health and well-being,chronic respiratory disease,curly
+3,Good health and well-being,Good health and well-being,chronic respiratory diseases,curly
+3,Good health and well-being,Good health and well-being,infectious disease,curly
+3,Good health and well-being,Good health and well-being,infectious diseases,curly
+3,Good health and well-being,Good health and well-being,sexually-transmitted disease,curly
+3,Good health and well-being,Good health and well-being,sexually transmitted disease,curly
+3,Good health and well-being,Good health and well-being,sexually-transmitted diseases,curly
+3,Good health and well-being,Good health and well-being,sexually transmitted diseases,curly
+3,Good health and well-being,Good health and well-being,communicable disease,curly
+3,Good health and well-being,Good health and well-being,communicable diseases,curly
+3,Good health and well-being,Good health and well-being,AIDS,curly
+3,Good health and well-being,Good health and well-being,HIV,curly
+3,Good health and well-being,Good health and well-being,human immunodeficiency virus,curly
+3,Good health and well-being,Good health and well-being,tuberculosis,curly
+3,Good health and well-being,Good health and well-being,malaria,curly
+3,Good health and well-being,Good health and well-being,hepatitis,curly
+3,Good health and well-being,Good health and well-being,polio*,curly
+3,Good health and well-being,Good health and well-being,vaccin*,curly
+3,Good health and well-being,Good health and well-being,cancer*,curly
+3,Good health and well-being,Good health and well-being,diabet*,curly
+3,Good health and well-being,Good health and well-being,maternal mortality,curly
+3,Good health and well-being,Good health and well-being,child mortality,curly
+3,Good health and well-being,Good health and well-being,childbirth complications,curly
+3,Good health and well-being,Good health and well-being,neonatal mortality,curly
+3,Good health and well-being,Good health and well-being,neo-natal mortality,curly
+3,Good health and well-being,Good health and well-being,premature mortality,curly
+3,Good health and well-being,Good health and well-being,infant mortality,curly
+3,Good health and well-being,Good health and well-being,quality adjusted life year,curly
+3,Good health and well-being,Good health and well-being,maternal health,curly
+3,Good health and well-being,Good health and well-being,preventable death,curly
+3,Good health and well-being,Good health and well-being,preventable deaths,curly
+3,Good health and well-being,Good health and well-being,tobacco control,curly
+3,Good health and well-being,Good health and well-being,substance abuse,curly
+3,Good health and well-being,Good health and well-being,drug abuse,curly
+3,Good health and well-being,Good health and well-being,tobacco use,curly
+3,Good health and well-being,Good health and well-being,alcohol use,curly
+3,Good health and well-being,Good health and well-being,substance addiction,curly
+3,Good health and well-being,Good health and well-being,drug addiction,curly
+3,Good health and well-being,Good health and well-being,tobacco addiction,curly
+3,Good health and well-being,Good health and well-being,alcoholism,curly
+3,Good health and well-being,Good health and well-being,suicid*,curly
+3,Good health and well-being,Good health and well-being,postnatal depression,curly
+3,Good health and well-being,Good health and well-being,post-natal depression,curly
+3,Good health and well-being,Good health and well-being,zika virus,curly
+3,Good health and well-being,Good health and well-being,dengue,curly
+3,Good health and well-being,Good health and well-being,schistosomiasis,curly
+3,Good health and well-being,Good health and well-being,sleeping sickness,curly
+3,Good health and well-being,Good health and well-being,ebola,curly
+3,Good health and well-being,Good health and well-being,mental health,curly
+3,Good health and well-being,Good health and well-being,mental disorder,curly
+3,Good health and well-being,Good health and well-being,mental illness,curly
+3,Good health and well-being,Good health and well-being,mental illnesses,curly
+3,Good health and well-being,Good health and well-being,measles,curly
+3,Good health and well-being,Good health and well-being,neglected disease,curly
+3,Good health and well-being,Good health and well-being,neglected diseases,curly
+3,Good health and well-being,Good health and well-being,diarrhea,curly
+3,Good health and well-being,Good health and well-being,diarrhoea,curly
+3,Good health and well-being,Good health and well-being,cholera,curly
+3,Good health and well-being,Good health and well-being,dysentery,curly
+3,Good health and well-being,Good health and well-being,typhoid fever,curly
+3,Good health and well-being,Good health and well-being,traffic accident,curly
+3,Good health and well-being,Good health and well-being,traffic accidents,curly
+3,Good health and well-being,Good health and well-being,healthy lifestyle,curly
+3,Good health and well-being,Good health and well-being,life expectancy,curly
+3,Good health and well-being,Good health and well-being,life expectancies,curly
+3,Good health and well-being,Good health and well-being,health policy,curly
+3,Good health and well-being,Good health and well-being,health system access,curly
+3,Good health and well-being,Good health and well-being,health system accessible,curly
+3,Good health and well-being,Good health and well-being,health risk,curly
+3,Good health and well-being,Good health and well-being,health risks,curly
+3,Good health and well-being,Good health and well-being,inclusive health,curly
+3,Good health and well-being,Good health and well-being,obesity,curly
+3,Good health and well-being,Good health and well-being,social determinants of health,curly
+3,Good health and well-being,Good health and well-being,psychological harm,curly
+3,Good health and well-being,Good health and well-being,psychological wellbeing,curly
+3,Good health and well-being,Good health and well-being,psychological well-being,curly
+3,Good health and well-being,Good health and well-being,psychological well being,curly
+3,Good health and well-being,Good health and well-being,public health,curly
+4,Quality education,Quality education,development aid and teacher training,curly
+4,Quality education,Quality education,learning opportunities and gender disparities,curly
+4,Quality education,Quality education,learning opportunities and empowerment,curly
+4,Quality education,Quality education,learning opportunity and gender disparities,curly
+4,Quality education,Quality education,learning opportunity and empowerment,curly
+4,Quality education,Quality education,poverty trap and schooling,curly
+4,Quality education,Quality education,schooling and gender disparities,curly
+4,Quality education,Quality education,schooling and ethnic disparities,curly
+4,Quality education,Quality education,schooling and racial disparities,curly
+4,Quality education,Quality education,educational reform and developing countries,curly
+4,Quality education,Quality education,developing countries and school effects,curly
+4,Quality education,Quality education,teacher training and developing countries,curly
+4,Quality education,Quality education,school,curly
+4,Quality education,Quality education,education,curly
+4,Quality education,Quality education,educational,curly
+4,Quality education,Quality education,school attendance,curly
+4,Quality education,Quality education,school enrollment,curly
+4,Quality education,Quality education,school enrolment,curly
+4,Quality education,Quality education,inclusive education,curly
+4,Quality education,Quality education,educational inequality,curly
+4,Quality education,Quality education,education quality,curly
+4,Quality education,Quality education,educational enrolment,curly
+4,Quality education,Quality education,educational enrollment,curly
+4,Quality education,Quality education,adult literacy,curly
+4,Quality education,Quality education,numeracy rate,curly
+4,Quality education,Quality education,educational environment,curly
+4,Quality education,Quality education,educational access,curly
+4,Quality education,Quality education,early childhood education,curly
+4,Quality education,Quality education,basic education,curly
+4,Quality education,Quality education,affordable education,curly
+4,Quality education,Quality education,educational financial aid,curly
+4,Quality education,Quality education,school safety,curly
+4,Quality education,Quality education,safety in school,curly
+4,Quality education,Quality education,youth empowerment,curly
+4,Quality education,Quality education,women empowerment,curly
+4,Quality education,Quality education,equal opportunities,curly
+4,Quality education,Quality education,child labour,curly
+4,Quality education,Quality education,child labor,curly
+4,Quality education,Quality education,discriminatory,curly
+4,Quality education,Quality education,educational gap,curly
+4,Quality education,Quality education,special education needs,curly
+4,Quality education,Quality education,inclusive education system,curly
+4,Quality education,Quality education,education exclusion,curly
+4,Quality education,Quality education,education dropouts,curly
+4,Quality education,Quality education,global citizenship,curly
+4,Quality education,Quality education,sustainable development education,curly
+4,Quality education,Quality education,environmental education,curly
+4,Quality education,Quality education,education policy,curly
+4,Quality education,Quality education,educational policies,curly
+4,Quality education,Quality education,international education,curly
+4,Quality education,Quality education,education reform,curly
+4,Quality education,Quality education,educational governance,curly
+4,Quality education,Quality education,education expenditure,curly
+4,Quality education,Quality education,foreign aid,curly
+4,Quality education,Quality education,teacher attrition,curly
+5,Gender equality,Gender equality,access and family planning services,curly
+5,Gender equality,Gender equality,women and violence,curly
+5,Gender equality,Gender equality,girl* and violence,curly
+5,Gender equality,Gender equality,unpaid work and gender inequality,curly
+5,Gender equality,Gender equality,unpaid care work and gender inequality,curly
+5,Gender equality,Gender equality,access and reproductive healthcare,curly
+5,Gender equality,Gender equality,equality and sexual rights,curly
+5,Gender equality,Gender equality,equality and reproductive rights,curly
+5,Gender equality,Gender equality,equality and divorce rights,curly
+5,Gender equality,Gender equality,foreign aid and women’s empowerment,curly
+5,Gender equality,Gender equality,gender inequality,curly
+5,Gender equality,Gender equality,gender equality,curly
+5,Gender equality,Gender equality,employment equity,curly
+5,Gender equality,Gender equality,gender wage gap,curly
+5,Gender equality,Gender equality,female labor force participation,curly
+5,Gender equality,Gender equality,female labour force participation,curly
+5,Gender equality,Gender equality,women labor force participation,curly
+5,Gender equality,Gender equality,women labour force participation,curly
+5,Gender equality,Gender equality,womens' employment,curly
+5,Gender equality,Gender equality,female employment,curly
+5,Gender equality,Gender equality,women's unemployment,curly
+5,Gender equality,Gender equality,female unemployment,curly
+5,Gender equality,Gender equality,forced marriage,curly
+5,Gender equality,Gender equality,child marriage,curly
+5,Gender equality,Gender equality,forced marriages,curly
+5,Gender equality,Gender equality,child marriages,curly
+5,Gender equality,Gender equality,occupational segregation,curly
+5,Gender equality,Gender equality,women's empowerment,curly
+5,Gender equality,Gender equality,girls' empowerment,curly
+5,Gender equality,Gender equality,female empowerment,curly
+5,Gender equality,Gender equality,female genital mutilation,curly
+5,Gender equality,Gender equality,female genital cutting,curly
+5,Gender equality,Gender equality,domestic violence,curly
+5,Gender equality,Gender equality,sexual violence,curly
+5,Gender equality,Gender equality,women's political participation,curly
+5,Gender equality,Gender equality,female political participation,curly
+5,Gender equality,Gender equality,female managers,curly
+5,Gender equality,Gender equality,women in leadership,curly
+5,Gender equality,Gender equality,female leadership,curly
+5,Gender equality,Gender equality,intra-household allocation,curly
+5,Gender equality,Gender equality,honour killing,curly
+5,Gender equality,Gender equality,honor killing,curly
+5,Gender equality,Gender equality,honour killings,curly
+5,Gender equality,Gender equality,honor killings,curly
+5,Gender equality,Gender equality,antiwomen,curly
+5,Gender equality,Gender equality,anti-women,curly
+5,Gender equality,Gender equality,feminism,curly
+5,Gender equality,Gender equality,misogyny,curly
+5,Gender equality,Gender equality,female infanticide,curly
+5,Gender equality,Gender equality,female infanticides,curly
+5,Gender equality,Gender equality,human trafficking,curly
+5,Gender equality,Gender equality,forced prostitution,curly
+5,Gender equality,Gender equality,women's rights,curly
+5,Gender equality,Gender equality,gender injustice,curly
+5,Gender equality,Gender equality,gender injustices,curly
+5,Gender equality,Gender equality,gender discrimination,curly
+5,Gender equality,Gender equality,gender disparities,curly
+5,Gender equality,Gender equality,gender gap,curly
+5,Gender equality,Gender equality,female exploitation,curly
+5,Gender equality,Gender equality,household equity,curly
+5,Gender equality,Gender equality,women’s underrepresentation,curly
+5,Gender equality,Gender equality,female entrepreneurship,curly
+5,Gender equality,Gender equality,female ownership,curly
+5,Gender equality,Gender equality,women’s economic development,curly
+5,Gender equality,Gender equality,women’s power,curly
+5,Gender equality,Gender equality,gender-responsive budgeting,curly
+5,Gender equality,Gender equality,gender quota,curly
+5,Gender equality,Gender equality,gender segregation,curly
+5,Gender equality,Gender equality,gender-based violence,curly
+5,Gender equality,Gender equality,gender participation,curly
+5,Gender equality,Gender equality,female politician,curly
+5,Gender equality,Gender equality,female leader,curly
+5,Gender equality,Gender equality,contraceptive behaviour,curly
+5,Gender equality,Gender equality,women’s autonomy,curly
+5,Gender equality,Gender equality,agrarian feminism,curly
+5,Gender equality,Gender equality,microfinance,curly
+5,Gender equality,Gender equality,women’s livelihood,curly
+5,Gender equality,Gender equality,women’s ownership,curly
+5,Gender equality,Gender equality,female smallholder,curly
+5,Gender equality,Gender equality,gender mainstreaming,curly
+6,Clean water and sanitation,Clean water and sanitation,Safe and water access,curly
+6,Clean water and sanitation,Clean water and sanitation,Safe and drinking water,curly
+6,Clean water and sanitation,Clean water and sanitation,Clean and drinking water,curly
+6,Clean water and sanitation,Clean water and sanitation,Clean and water source,curly
+6,Clean water and sanitation,Clean water and sanitation,Water and sanitation and hygiene,curly
+6,Clean water and sanitation,Clean water and sanitation,Water and sanitation & hygiene,curly
+6,Clean water and sanitation,Clean water and sanitation,Water and quality,curly
+6,Clean water and sanitation,Clean water and sanitation,Water and resource,curly
+6,Clean water and sanitation,Clean water and sanitation,Water and water availability,curly
+6,Clean water and sanitation,Clean water and sanitation,Water and water-use efficiency,curly
+6,Clean water and sanitation,Clean water and sanitation,Water and water supply,curly
+6,Clean water and sanitation,Clean water and sanitation,Water and water supplies,curly
+6,Clean water and sanitation,Clean water and sanitation,Water and clean water,curly
+6,Clean water and sanitation,Clean water and sanitation,Water and hygienic toilet,curly
+6,Clean water and sanitation,Clean water and sanitation,Water and hygienic toilets,curly
+6,Clean water and sanitation,Clean water and sanitation,Water and antifouling membrane,curly
+6,Clean water and sanitation,Clean water and sanitation,Water and antifouling membranes,curly
+6,Clean water and sanitation,Clean water and sanitation,Water and anti-fouling membrane,curly
+6,Clean water and sanitation,Clean water and sanitation,Water and anti-fouling membranes,curly
+6,Clean water and sanitation,Clean water and sanitation,Water and water management,curly
+6,Clean water and sanitation,Clean water and sanitation,Water and aquatic toxicology,curly
+6,Clean water and sanitation,Clean water and sanitation,Water and water toxicology,curly
+6,Clean water and sanitation,Clean water and sanitation,Water and aquatic ecotoxicology,curly
+6,Clean water and sanitation,Clean water and sanitation,Water and water ecotoxicology,curly
+6,Clean water and sanitation,Clean water and sanitation,Freshwater and water quality,curly
+6,Clean water and sanitation,Clean water and sanitation,Fresh water and water quality,curly
+6,Clean water and sanitation,Clean water and sanitation,Freshwater and pollutant,curly
+6,Clean water and sanitation,Clean water and sanitation,Freshwater and pollution,curly
+6,Clean water and sanitation,Clean water and sanitation,Freshwater and contamina,curly
+6,Clean water and sanitation,Clean water and sanitation,Freshwater and water security,curly
+6,Clean water and sanitation,Clean water and sanitation,Freshwater and water shortage,curly
+6,Clean water and sanitation,Clean water and sanitation,Waste water and treatment,curly
+6,Clean water and sanitation,Clean water and sanitation,Wastewater and treatment,curly
+6,Clean water and sanitation,Clean water and sanitation,Water and water conservation,curly
+6,Clean water and sanitation,Clean water and sanitation,Water and water footprint,curly
+6,Clean water and sanitation,Clean water and sanitation,Water and water infrastructure,curly
+6,Clean water and sanitation,Clean water and sanitation,Water and water pollution,curly
+6,Clean water and sanitation,Clean water and sanitation,Water and water purification,curly
+6,Clean water and sanitation,Clean water and sanitation,Water and water use,curly
+6,Clean water and sanitation,Clean water and sanitation,Water and water uses,curly
+6,Clean water and sanitation,Clean water and sanitation,Water and sanit,curly
+6,Clean water and sanitation,Clean water and sanitation,Water and sewer*,curly
+6,Clean water and sanitation,Clean water and sanitation,Water and ecosystem and protection of,curly
+6,Clean water and sanitation,Clean water and sanitation,Water and ecosystem and endocrine disruptor,curly
+6,Clean water and sanitation,Clean water and sanitation,Water and ecosystem and endocrine disruptors,curly
+6,Clean water and sanitation,Clean water and sanitation,Water and water management and pollution remediation,curly
+6,Clean water and sanitation,Clean water and sanitation,Water and water management and pollutant removal,curly
+6,Clean water and sanitation,Clean water and sanitation,Groundwater and freshwater,curly
+6,Clean water and sanitation,Clean water and sanitation,Ground water and freshwater,curly
+6,Clean water and sanitation,Clean water and sanitation,Ground-water and freshwater,curly
+6,Clean water and sanitation,Clean water and sanitation,Water pollution and waste water and treatment,curly
+6,Clean water and sanitation,Clean water and sanitation,Water pollution and wastewater and treatment,curly
+6,Clean water and sanitation,Clean water and sanitation,Freshwater availability,curly
+6,Clean water and sanitation,Clean water and sanitation,Fresh water availability,curly
+6,Clean water and sanitation,Clean water and sanitation,Water scarcity,curly
+6,Clean water and sanitation,Clean water and sanitation,Open defecation,curly
+6,Clean water and sanitation,Clean water and sanitation,Blue water,curly
+6,Clean water and sanitation,Clean water and sanitation,Green water,curly
+6,Clean water and sanitation,Clean water and sanitation,Grey water,curly
+6,Clean water and sanitation,Clean water and sanitation,Black water,curly
+7,Affordable and clean energy,Affordable and clean energy,photochemistry and renewable energy,curly
+7,Affordable and clean energy,Affordable and clean energy,foreign development aid and renewable energy,curly
+7,Affordable and clean energy,Affordable and clean energy,official development assistance and electricity,curly
+7,Affordable and clean energy,Affordable and clean energy,energy development and developing countries,curly
+7,Affordable and clean energy,Affordable and clean energy,energy efficiency,curly
+7,Affordable and clean energy,Affordable and clean energy,energy consumption,curly
+7,Affordable and clean energy,Affordable and clean energy,energy transition,curly
+7,Affordable and clean energy,Affordable and clean energy,clean energy technology,curly
+7,Affordable and clean energy,Affordable and clean energy,energy equity,curly
+7,Affordable and clean energy,Affordable and clean energy,energy justice,curly
+7,Affordable and clean energy,Affordable and clean energy,energy poverty,curly
+7,Affordable and clean energy,Affordable and clean energy,energy policy,curly
+7,Affordable and clean energy,Affordable and clean energy,renewable,curly
+7,Affordable and clean energy,Affordable and clean energy,2000 Watt society,curly
+7,Affordable and clean energy,Affordable and clean energy,smart micro-grid,curly
+7,Affordable and clean energy,Affordable and clean energy,smart grid,curly
+7,Affordable and clean energy,Affordable and clean energy,smart microgrid,curly
+7,Affordable and clean energy,Affordable and clean energy,smart micro-grids,curly
+7,Affordable and clean energy,Affordable and clean energy,smart grids,curly
+7,Affordable and clean energy,Affordable and clean energy,smart microgrids,curly
+7,Affordable and clean energy,Affordable and clean energy,smart meter,curly
+7,Affordable and clean energy,Affordable and clean energy,smart meters,curly
+7,Affordable and clean energy,Affordable and clean energy,affordable electricity,curly
+7,Affordable and clean energy,Affordable and clean energy,electricity consumption,curly
+7,Affordable and clean energy,Affordable and clean energy,reliable electricity,curly
+7,Affordable and clean energy,Affordable and clean energy,clean fuel,curly
+7,Affordable and clean energy,Affordable and clean energy,clean cooking fuel,curly
+7,Affordable and clean energy,Affordable and clean energy,fuel poverty,curly
+7,Affordable and clean energy,Affordable and clean energy,life-cycle assessment,curly
+7,Affordable and clean energy,Affordable and clean energy,life cycle assessment,curly
+7,Affordable and clean energy,Affordable and clean energy,life-cycle assessments,curly
+7,Affordable and clean energy,Affordable and clean energy,life cycle assessments,curly
+7,Affordable and clean energy,Affordable and clean energy,photovoltaic,curly
+7,Affordable and clean energy,Affordable and clean energy,photocatalytic water splitting,curly
+7,Affordable and clean energy,Affordable and clean energy,hydrogen production,curly
+7,Affordable and clean energy,Affordable and clean energy,water splitting,curly
+7,Affordable and clean energy,Affordable and clean energy,lithium-ion batteries,curly
+7,Affordable and clean energy,Affordable and clean energy,lithium-ion battery,curly
+7,Affordable and clean energy,Affordable and clean energy,heat network,curly
+7,Affordable and clean energy,Affordable and clean energy,district heat,curly
+7,Affordable and clean energy,Affordable and clean energy,district heating,curly
+7,Affordable and clean energy,Affordable and clean energy,residential energy consumption,curly
+7,Affordable and clean energy,Affordable and clean energy,domestic energy consumption,curly
+7,Affordable and clean energy,Affordable and clean energy,energy security,curly
+7,Affordable and clean energy,Affordable and clean energy,rural electrification,curly
+7,Affordable and clean energy,Affordable and clean energy,energy ladder,curly
+7,Affordable and clean energy,Affordable and clean energy,energy access,curly
+7,Affordable and clean energy,Affordable and clean energy,energy conservation,curly
+7,Affordable and clean energy,Affordable and clean energy,low-carbon society,curly
+7,Affordable and clean energy,Affordable and clean energy,hybrid renewable energy system,curly
+7,Affordable and clean energy,Affordable and clean energy,hybrid renewable energy systems,curly
+7,Affordable and clean energy,Affordable and clean energy,fuel switching,curly
+7,Affordable and clean energy,Affordable and clean energy,energy governance,curly
+7,Affordable and clean energy,Affordable and clean energy,developing countries,curly
+8,Decent work and economic growth,Decent work and economic growth,economic growth,curly
+8,Decent work and economic growth,Decent work and economic growth,economic development policy,curly
+8,Decent work and economic growth,Decent work and economic growth,employment policy,curly
+8,Decent work and economic growth,Decent work and economic growth,inclusive economic growth,curly
+8,Decent work and economic growth,Decent work and economic growth,sustainable growth,curly
+8,Decent work and economic growth,Decent work and economic growth,economic development,curly
+8,Decent work and economic growth,Decent work and economic growth,economic globalization,curly
+8,Decent work and economic growth,Decent work and economic growth,economic globalisation,curly
+8,Decent work and economic growth,Decent work and economic growth,economic productivity,curly
+8,Decent work and economic growth,Decent work and economic growth,low-carbon economy,curly
+8,Decent work and economic growth,Decent work and economic growth,inclusive growth,curly
+8,Decent work and economic growth,Decent work and economic growth,microfinanc,curly
+8,Decent work and economic growth,Decent work and economic growth,micro-financ,curly
+8,Decent work and economic growth,Decent work and economic growth,micro-credit*,curly
+8,Decent work and economic growth,Decent work and economic growth,microcredit*,curly
+8,Decent work and economic growth,Decent work and economic growth,equal income,curly
+8,Decent work and economic growth,Decent work and economic growth,equal wages,curly
+8,Decent work and economic growth,Decent work and economic growth,decent job,curly
+8,Decent work and economic growth,Decent work and economic growth,decent jobs,curly
+8,Decent work and economic growth,Decent work and economic growth,quality job,curly
+8,Decent work and economic growth,Decent work and economic growth,quality jobs,curly
+8,Decent work and economic growth,Decent work and economic growth,job creation,curly
+8,Decent work and economic growth,Decent work and economic growth,full employment,curly
+8,Decent work and economic growth,Decent work and economic growth,employment protection,curly
+8,Decent work and economic growth,Decent work and economic growth,informal employment,curly
+8,Decent work and economic growth,Decent work and economic growth,precarious employment,curly
+8,Decent work and economic growth,Decent work and economic growth,unemployment,curly
+8,Decent work and economic growth,Decent work and economic growth,precarious job,curly
+8,Decent work and economic growth,Decent work and economic growth,precarious jobs,curly
+8,Decent work and economic growth,Decent work and economic growth,microenterprise*,curly
+8,Decent work and economic growth,Decent work and economic growth,micro-enterprise*,curly
+8,Decent work and economic growth,Decent work and economic growth,small enterprise,curly
+8,Decent work and economic growth,Decent work and economic growth,medium enterprise,curly
+8,Decent work and economic growth,Decent work and economic growth,small enterprises,curly
+8,Decent work and economic growth,Decent work and economic growth,medium enterprises,curly
+8,Decent work and economic growth,Decent work and economic growth,small entrepreneur,curly
+8,Decent work and economic growth,Decent work and economic growth,starting entrepreneur,curly
+8,Decent work and economic growth,Decent work and economic growth,medium entrepreneur,curly
+8,Decent work and economic growth,Decent work and economic growth,small entrepreneurs,curly
+8,Decent work and economic growth,Decent work and economic growth,medium entrepreneurs,curly
+8,Decent work and economic growth,Decent work and economic growth,starting entrepreneurs,curly
+8,Decent work and economic growth,Decent work and economic growth,social entrepreneurship,curly
+8,Decent work and economic growth,Decent work and economic growth,safe working environment,curly
+8,Decent work and economic growth,Decent work and economic growth,labor market institution,curly
+8,Decent work and economic growth,Decent work and economic growth,labor market institutions,curly
+8,Decent work and economic growth,Decent work and economic growth,labour market institution,curly
+8,Decent work and economic growth,Decent work and economic growth,labour market institutions,curly
+8,Decent work and economic growth,Decent work and economic growth,forced labour,curly
+8,Decent work and economic growth,Decent work and economic growth,forced labor,curly
+8,Decent work and economic growth,Decent work and economic growth,child labour,curly
+8,Decent work and economic growth,Decent work and economic growth,child labor,curly
+8,Decent work and economic growth,Decent work and economic growth,labour right,curly
+8,Decent work and economic growth,Decent work and economic growth,labor right,curly
+8,Decent work and economic growth,Decent work and economic growth,labour rights,curly
+8,Decent work and economic growth,Decent work and economic growth,labor rights,curly
+8,Decent work and economic growth,Decent work and economic growth,modern slavery,curly
+8,Decent work and economic growth,Decent work and economic growth,human trafficking,curly
+8,Decent work and economic growth,Decent work and economic growth,child soldier,curly
+8,Decent work and economic growth,Decent work and economic growth,child soldiers,curly
+8,Decent work and economic growth,Decent work and economic growth,global jobs,curly
+8,Decent work and economic growth,Decent work and economic growth,living wage,curly
+8,Decent work and economic growth,Decent work and economic growth,minimum wage,curly
+8,Decent work and economic growth,Decent work and economic growth,circular economy,curly
+8,Decent work and economic growth,Decent work and economic growth,inclusive economy,curly
+8,Decent work and economic growth,Decent work and economic growth,rural economy,curly
+8,Decent work and economic growth,Decent work and economic growth,Foreign Development Investment,curly
+8,Decent work and economic growth,Decent work and economic growth,Aid for Trade,curly
+8,Decent work and economic growth,Decent work and economic growth,trade unions,curly
+8,Decent work and economic growth,Decent work and economic growth,trade union,curly
+8,Decent work and economic growth,Decent work and economic growth,working poor,curly
+8,Decent work and economic growth,Decent work and economic growth,"Not in Education, Employment, or Training",curly
+8,Decent work and economic growth,Decent work and economic growth,carbon offset,curly
+8,Decent work and economic growth,Decent work and economic growth,carbon offsetting,curly
+8,Decent work and economic growth,Decent work and economic growth,carbon offsets,curly
+8,Decent work and economic growth,Decent work and economic growth,offset project,curly
+8,Decent work and economic growth,Decent work and economic growth,offset projects,curly
+8,Decent work and economic growth,Decent work and economic growth,economic diversification,curly
+8,Decent work and economic growth,Decent work and economic growth,material footprint,curly
+8,Decent work and economic growth,Decent work and economic growth,resource efficiency,curly
+8,Decent work and economic growth,Decent work and economic growth,cradle to cradle and economy,curly
+8,Decent work and economic growth,Decent work and economic growth,economic decoupling,curly
+8,Decent work and economic growth,Decent work and economic growth,labour market disparities,curly
+8,Decent work and economic growth,Decent work and economic growth,sustainable tourism,curly
+8,Decent work and economic growth,Decent work and economic growth,ecotourism,curly
+8,Decent work and economic growth,Decent work and economic growth,community-based tourism,curly
+8,Decent work and economic growth,Decent work and economic growth,tourism employment,curly
+8,Decent work and economic growth,Decent work and economic growth,sustainable tourism policy,curly
+8,Decent work and economic growth,Decent work and economic growth,financial access,curly
+8,Decent work and economic growth,Decent work and economic growth,financial inclusion,curly
+8,Decent work and economic growth,Decent work and economic growth,access to banking,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",industrial growth,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",industrial diversification,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",infrastructural development,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",infrastructural investment,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",infrastructure investment,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",public infrastructure,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",resilient infrastructure,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",transborder infrastructure,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",public infrastructures,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",resilient infrastructures,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",transborder infrastructures,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",industrial emissions and mitigation,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",industrial waste management,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",industrial waste treatment,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",traffic congestion,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",microenterprise,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",micro-enterprise,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",small enterprise,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",medium enterprise,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",small enterprises,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",medium enterprises,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",small entrepreneur,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",medium entrepreneur,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",small entrepreneurs,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",medium entrepreneurs,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",value chain management,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",broadband access and developing countries,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",manufacturing innovation,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",manufacturing investment,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",sustainable transportation,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",accessible transportation,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",transportation services,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",inclusive transportation,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",R&D investment,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",green product,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",green products,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",sustainable manufacturing,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",cradle to cradle and industry,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",closed loop supply chain,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",industrial and innovation,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",process innovation,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",product innovation,curly
+9,"Industry, innovation and infrastructure","Industry, innovation and infrastructure",inclusive innovation,curly
+10,Reduced inequalities,Reduced inequalities,equality and economic,curly
+10,Reduced inequalities,Reduced inequalities,equality and financial,curly
+10,Reduced inequalities,Reduced inequalities,equality and socio-economic,curly
+10,Reduced inequalities,Reduced inequalities,inequality and economic,curly
+10,Reduced inequalities,Reduced inequalities,inequality and financial,curly
+10,Reduced inequalities,Reduced inequalities,inequality and socio-economic,curly
+10,Reduced inequalities,Reduced inequalities,economic reform policy,curly
+10,Reduced inequalities,Reduced inequalities,economic reform policies,curly
+10,Reduced inequalities,Reduced inequalities,political inclusion,curly
+10,Reduced inequalities,Reduced inequalities,social protection policy,curly
+10,Reduced inequalities,Reduced inequalities,social protection policies,curly
+10,Reduced inequalities,Reduced inequalities,immigration,curly
+10,Reduced inequalities,Reduced inequalities,emigration,curly
+10,Reduced inequalities,Reduced inequalities,foreign direct investment,curly
+10,Reduced inequalities,Reduced inequalities,development gap,curly
+10,Reduced inequalities,Reduced inequalities,development gaps,curly
+10,Reduced inequalities,Reduced inequalities,migrant remittance,curly
+10,Reduced inequalities,Reduced inequalities,responsible migration,curly
+10,Reduced inequalities,Reduced inequalities,migration policy,curly
+10,Reduced inequalities,Reduced inequalities,migration policies,curly
+10,Reduced inequalities,Reduced inequalities,north-south divide,curly
+10,Reduced inequalities,Reduced inequalities,developing and tariffs,curly
+10,Reduced inequalities,Reduced inequalities,developing and tariff,curly
+10,Reduced inequalities,Reduced inequalities,developing and zero-tariff,curly
+10,Reduced inequalities,Reduced inequalities,developing and duty-free access,curly
+10,Reduced inequalities,Reduced inequalities,social exclusion,curly
+10,Reduced inequalities,Reduced inequalities,economic marginalization,curly
+10,Reduced inequalities,Reduced inequalities,income inequality,curly
+10,Reduced inequalities,Reduced inequalities,discriminatory law,curly
+10,Reduced inequalities,Reduced inequalities,discriminatory policies,curly
+10,Reduced inequalities,Reduced inequalities,discriminatory policy,curly
+10,Reduced inequalities,Reduced inequalities,economic empowerment,curly
+10,Reduced inequalities,Reduced inequalities,economic transformation,curly
+10,Reduced inequalities,Reduced inequalities,global market and empowerment,curly
+11,Sustainable cities and communities,Sustainable cities and communities,city,curly
+11,Sustainable cities and communities,Sustainable cities and communities,cities,curly
+11,Sustainable cities and communities,Sustainable cities and communities,human settlement,curly
+11,Sustainable cities and communities,Sustainable cities and communities,human settlements,curly
+11,Sustainable cities and communities,Sustainable cities and communities,urban,curly
+11,Sustainable cities and communities,Sustainable cities and communities,metropolis,curly
+11,Sustainable cities and communities,Sustainable cities and communities,town,curly
+11,Sustainable cities and communities,Sustainable cities and communities,municipal*,curly
+11,Sustainable cities and communities,Sustainable cities and communities,gentrification,curly
+11,Sustainable cities and communities,Sustainable cities and communities,congestion,curly
+11,Sustainable cities and communities,Sustainable cities and communities,transportation,curly
+11,Sustainable cities and communities,Sustainable cities and communities,public transport,curly
+11,Sustainable cities and communities,Sustainable cities and communities,housing,curly
+11,Sustainable cities and communities,Sustainable cities and communities,slum*,curly
+11,Sustainable cities and communities,Sustainable cities and communities,Sendai Framework,curly
+11,Sustainable cities and communities,Sustainable cities and communities,Disaster Risk Reduction,curly
+11,Sustainable cities and communities,Sustainable cities and communities,DRR,curly
+11,Sustainable cities and communities,Sustainable cities and communities,smart city,curly
+11,Sustainable cities and communities,Sustainable cities and communities,smart cities,curly
+11,Sustainable cities and communities,Sustainable cities and communities,resilient building,curly
+11,Sustainable cities and communities,Sustainable cities and communities,resilient buildings,curly
+11,Sustainable cities and communities,Sustainable cities and communities,sustainable building,curly
+11,Sustainable cities and communities,Sustainable cities and communities,sustainable buildings,curly
+11,Sustainable cities and communities,Sustainable cities and communities,building design,curly
+11,Sustainable cities and communities,Sustainable cities and communities,buildings design,curly
+11,Sustainable cities and communities,Sustainable cities and communities,urbanization,curly
+11,Sustainable cities and communities,Sustainable cities and communities,zero energy building,curly
+11,Sustainable cities and communities,Sustainable cities and communities,zero energy buildings,curly
+11,Sustainable cities and communities,Sustainable cities and communities,zero-energy building,curly
+11,Sustainable cities and communities,Sustainable cities and communities,zero-energy buildings,curly
+11,Sustainable cities and communities,Sustainable cities and communities,basic service,curly
+11,Sustainable cities and communities,Sustainable cities and communities,basic services,curly
+11,Sustainable cities and communities,Sustainable cities and communities,governance,curly
+11,Sustainable cities and communities,Sustainable cities and communities,citizen participation,curly
+11,Sustainable cities and communities,Sustainable cities and communities,collaborative planning,curly
+11,Sustainable cities and communities,Sustainable cities and communities,participatory planning,curly
+11,Sustainable cities and communities,Sustainable cities and communities,inclusiveness,curly
+11,Sustainable cities and communities,Sustainable cities and communities,cultural heritage,curly
+11,Sustainable cities and communities,Sustainable cities and communities,natural heritage,curly
+11,Sustainable cities and communities,Sustainable cities and communities,UNESCO,curly
+11,Sustainable cities and communities,Sustainable cities and communities,disaster,curly
+11,Sustainable cities and communities,Sustainable cities and communities,ecological footprint,curly
+11,Sustainable cities and communities,Sustainable cities and communities,environmental footprint,curly
+11,Sustainable cities and communities,Sustainable cities and communities,waste,curly
+11,Sustainable cities and communities,Sustainable cities and communities,pollution,curly
+11,Sustainable cities and communities,Sustainable cities and communities,pollutant*,curly
+11,Sustainable cities and communities,Sustainable cities and communities,waste water,curly
+11,Sustainable cities and communities,Sustainable cities and communities,recycling,curly
+11,Sustainable cities and communities,Sustainable cities and communities,circular economy,curly
+11,Sustainable cities and communities,Sustainable cities and communities,air quality,curly
+11,Sustainable cities and communities,Sustainable cities and communities,green space,curly
+11,Sustainable cities and communities,Sustainable cities and communities,green spaces,curly
+11,Sustainable cities and communities,Sustainable cities and communities,nature inclusive,curly
+11,Sustainable cities and communities,Sustainable cities and communities,nature inclusive building,curly
+11,Sustainable cities and communities,Sustainable cities and communities,nature inclusive buildings,curly
+12,Responsible consumption and production,Responsible consumption and production,environmental pollution,curly
+12,Responsible consumption and production,Responsible consumption and production,hazardous waste,curly
+12,Responsible consumption and production,Responsible consumption and production,hazardous chemical,curly
+12,Responsible consumption and production,Responsible consumption and production,hazardous chemicals,curly
+12,Responsible consumption and production,Responsible consumption and production,toxic chemical,curly
+12,Responsible consumption and production,Responsible consumption and production,toxic chemicals,curly
+12,Responsible consumption and production,Responsible consumption and production,chemical pollution,curly
+12,Responsible consumption and production,Responsible consumption and production,ozone depletion,curly
+12,Responsible consumption and production,Responsible consumption and production,pesticide pollution,curly
+12,Responsible consumption and production,Responsible consumption and production,pesticide stress,curly
+12,Responsible consumption and production,Responsible consumption and production,pesticide reduction,curly
+12,Responsible consumption and production,Responsible consumption and production,life cycle assessment,curly
+12,Responsible consumption and production,Responsible consumption and production,life cycle analysis,curly
+12,Responsible consumption and production,Responsible consumption and production,life cycle analyses,curly
+12,Responsible consumption and production,Responsible consumption and production,life-cycle analysis,curly
+12,Responsible consumption and production,Responsible consumption and production,life-cycle analyses,curly
+12,Responsible consumption and production,Responsible consumption and production,low carbon economy,curly
+12,Responsible consumption and production,Responsible consumption and production,low-carbon economy,curly
+12,Responsible consumption and production,Responsible consumption and production,environmental footprint,curly
+12,Responsible consumption and production,Responsible consumption and production,material footprint,curly
+12,Responsible consumption and production,Responsible consumption and production,harvest efficiency,curly
+12,Responsible consumption and production,Responsible consumption and production,solid waste,curly
+12,Responsible consumption and production,Responsible consumption and production,waste generation,curly
+12,Responsible consumption and production,Responsible consumption and production,corporate social responsibility,curly
+12,Responsible consumption and production,Responsible consumption and production,corporate sustainability,curly
+12,Responsible consumption and production,Responsible consumption and production,consumer behavior,curly
+12,Responsible consumption and production,Responsible consumption and production,consumer behaviors,curly
+12,Responsible consumption and production,Responsible consumption and production,consumer behaviour,curly
+12,Responsible consumption and production,Responsible consumption and production,consumer behaviours,curly
+12,Responsible consumption and production,Responsible consumption and production,waste recycling,curly
+12,Responsible consumption and production,Responsible consumption and production,resource recycling,curly
+12,Responsible consumption and production,Responsible consumption and production,resource reuse,curly
+12,Responsible consumption and production,Responsible consumption and production,biobased economy,curly
+12,Responsible consumption and production,Responsible consumption and production,zero waste,curly
+12,Responsible consumption and production,Responsible consumption and production,sustainability label,curly
+12,Responsible consumption and production,Responsible consumption and production,sustainability labelling,curly
+12,Responsible consumption and production,Responsible consumption and production,global resource extraction,curly
+12,Responsible consumption and production,Responsible consumption and production,material flow accounting,curly
+12,Responsible consumption and production,Responsible consumption and production,societal metabolism,curly
+12,Responsible consumption and production,Responsible consumption and production,food spill,curly
+12,Responsible consumption and production,Responsible consumption and production,resource spill,curly
+12,Responsible consumption and production,Responsible consumption and production,resource efficiency,curly
+12,Responsible consumption and production,Responsible consumption and production,sustainable food consumption,curly
+12,Responsible consumption and production,Responsible consumption and production,green consumption,curly
+12,Responsible consumption and production,Responsible consumption and production,sustainable supply chain,curly
+12,Responsible consumption and production,Responsible consumption and production,circular economy,curly
+12,Responsible consumption and production,Responsible consumption and production,cradle to cradle,curly
+12,Responsible consumption and production,Responsible consumption and production,sustainable procurement,curly
+12,Responsible consumption and production,Responsible consumption and production,sustainable tourism,curly
+12,Responsible consumption and production,Responsible consumption and production,fossil-fuel subsidies,curly
+12,Responsible consumption and production,Responsible consumption and production,fossil-fuel expenditure,curly
+12,Responsible consumption and production,Responsible consumption and production,consumption (resource use or spill),curly
+12,Responsible consumption and production,Responsible consumption and production,production (resource use or spill),curly
+13,Climate action,Climate action,climate action,paren
+13,Climate action,Climate action,climate adaptation,paren
+13,Climate action,Climate action,climate change,paren
+13,Climate action,Climate action,climate capitalism,paren
+13,Climate action,Climate action,ipcc,paren
+13,Climate action,Climate action,climate effect,paren
+13,Climate action,Climate action,climate equity,paren
+13,Climate action,Climate action,climate feedback,paren
+13,Climate action,Climate action,climate finance,paren
+13,Climate action,Climate action,climate change financing,paren
+13,Climate action,Climate action,climate forcing,paren
+13,Climate action,Climate action,climate governance,paren
+13,Climate action,Climate action,climate impact,paren
+13,Climate action,Climate action,climate investment,paren
+13,Climate action,Climate action,climate justice,paren
+13,Climate action,Climate action,climate mitigation,paren
+13,Climate action,Climate action,climate model,paren
+13,Climate action,Climate action,climate models,paren
+13,Climate action,Climate action,climate modeling,paren
+13,Climate action,Climate action,climate modelling,paren
+13,Climate action,Climate action,climate policy,paren
+13,Climate action,Climate action,climate policies,paren
+13,Climate action,Climate action,climate risk,paren
+13,Climate action,Climate action,climate risks,paren
+13,Climate action,Climate action,climate services,paren
+13,Climate action,Climate action,climate service,paren
+13,Climate action,Climate action,climate prediction,paren
+13,Climate action,Climate action,climate predictions,paren
+13,Climate action,Climate action,climate signal,paren
+13,Climate action,Climate action,climate signals,paren
+13,Climate action,Climate action,climate tipping point,paren
+13,Climate action,Climate action,climate variation,paren
+13,Climate action,Climate action,climate variations,paren
+13,Climate action,Climate action,ecoclimatology,paren
+13,Climate action,Climate action,eco-climatology,paren
+13,Climate action,Climate action,Green Climate Fund,paren
+13,Climate action,Climate action,regional climate,paren
+13,Climate action,Climate action,regional climates,paren
+13,Climate action,Climate action,urban climate,paren
+13,Climate action,Climate action,urban climates,paren
+13,Climate action,Climate action,climate,paren
+13,Climate action,Climate action,adaptive management,paren
+13,Climate action,Climate action,awareness,paren
+13,Climate action,Climate action,bioeconomy,paren
+13,Climate action,Climate action,carbon,paren
+13,Climate action,Climate action,decision-making,paren
+13,Climate action,Climate action,disaster risk reduction,paren
+13,Climate action,Climate action,environmental education,paren
+13,Climate action,Climate action,sustainable development education,paren
+13,Climate action,Climate action,energy conservation,paren
+13,Climate action,Climate action,emission*,paren
+13,Climate action,Climate action,extreme,paren
+13,Climate action,Climate action,food chain,paren
+13,Climate action,Climate action,food chains,paren
+13,Climate action,Climate action,framework,paren
+13,Climate action,Climate action,hazard*,paren
+13,Climate action,Climate action,island*,paren
+13,Climate action,Climate action,land use,paren
+13,Climate action,Climate action,megacit*,paren
+13,Climate action,Climate action,consumption,paren
+13,Climate action,Climate action,production,paren
+13,Climate action,Climate action,small island developing states,paren
+13,Climate action,Climate action,anthropocene,paren
+13,Climate action,Climate action,atmospher*,paren
+13,Climate action,Climate action,clean development mechanism,paren
+13,Climate action,Climate action,glacier retreat,paren
+13,Climate action,Climate action,warming,paren
+13,Climate action,Climate action,greenhouse,paren
+13,Climate action,Climate action,ice-ocean interaction,paren
+13,Climate action,Climate action,ice-ocean interactions,paren
+13,Climate action,Climate action,nitrogen cycle,paren
+13,Climate action,Climate action,nitrogen cycles,paren
+13,Climate action,Climate action,ocean acidification,paren
+13,Climate action,Climate action,radiative forcing,paren
+13,Climate action,Climate action,sea ice,paren
+13,Climate action,Climate action,sea level,paren
+13,Climate action,Climate action,sea levels,paren
+13,Climate action,Climate action,thermal expansion,paren
+13,Climate action,Climate action,unfccc,paren
+13,Climate action,Climate action,ozone,paren
+14,Life below water,Life below water,marine and water cycle,paren
+14,Life below water,Life below water,marine and water cycles,paren
+14,Life below water,Life below water,marine and biogeochemical cycle,paren
+14,Life below water,Life below water,marine and biogeochemical cycles,paren
+14,Life below water,Life below water,marine and oceanic circulation model,paren
+14,Life below water,Life below water,marine and oceanic circulation models,paren
+14,Life below water,Life below water,marine and oceanic circulation modelling,paren
+14,Life below water,Life below water,marine and oceanic circulation modeling,paren
+14,Life below water,Life below water,marine and ice-ocean,paren
+14,Life below water,Life below water,marine and eutrophicat*,paren
+14,Life below water,Life below water,marine and coral bleach,paren
+14,Life below water,Life below water,marine and coral bleaching,paren
+14,Life below water,Life below water,marine and coastal management,paren
+14,Life below water,Life below water,marine and coastal habitat,paren
+14,Life below water,Life below water,marine and coastal habitats,paren
+14,Life below water,Life below water,marine and marine debris,paren
+14,Life below water,Life below water,marine and ocean acidification,paren
+14,Life below water,Life below water,marine and acidification and seawater,paren
+14,Life below water,Life below water,marine and fishery,paren
+14,Life below water,Life below water,marine and fisheries,paren
+14,Life below water,Life below water,marine and overfishing,paren
+14,Life below water,Life below water,marine and sustainable yield,paren
+14,Life below water,Life below water,marine and marine protected area,paren
+14,Life below water,Life below water,marine and marine protected areas,paren
+14,Life below water,Life below water,marine and marine conservation,paren
+14,Life below water,Life below water,marine and ecotourism,paren
+14,Life below water,Life below water,marine and community based conservation,paren
+14,Life below water,Life below water,marine and community-based conservation,paren
+14,Life below water,Life below water,marine and marine land slide,paren
+14,Life below water,Life below water,marine and marine pollution,paren
+14,Life below water,Life below water,marine and nutrient runoff,paren
+14,Life below water,Life below water,marine and coastal ecotourism,paren
+14,Life below water,Life below water,marine and destructive fishing,paren
+14,Life below water,Life below water,marine and local fisheries,paren
+14,Life below water,Life below water,marine and artisanal fishers,paren
+14,Life below water,Life below water,marine and fisheries rights,paren
+14,Life below water,Life below water,marine and species richness,paren
+14,Life below water,Life below water,marine and traditional ecological knowledge,paren
+14,Life below water,Life below water,marine and small Island development states,paren
+14,Life below water,Life below water,marine and marine quota,paren
+14,Life below water,Life below water,marine and marine economy,paren
+14,Life below water,Life below water,marine and marine policy,paren
+14,Life below water,Life below water,ocean and water cycle,paren
+14,Life below water,Life below water,ocean and water cycles,paren
+14,Life below water,Life below water,ocean and biogeochemical cycle,paren
+14,Life below water,Life below water,ocean and biogeochemical cycles,paren
+14,Life below water,Life below water,ocean and oceanic circulation model,paren
+14,Life below water,Life below water,ocean and oceanic circulation models,paren
+14,Life below water,Life below water,ocean and oceanic circulation modelling,paren
+14,Life below water,Life below water,ocean and oceanic circulation modeling,paren
+14,Life below water,Life below water,ocean and ice-ocean,paren
+14,Life below water,Life below water,ocean and eutrophicat*,paren
+14,Life below water,Life below water,ocean and coral bleach,paren
+14,Life below water,Life below water,ocean and coral bleaching,paren
+14,Life below water,Life below water,ocean and coastal management,paren
+14,Life below water,Life below water,ocean and coastal habitat,paren
+14,Life below water,Life below water,ocean and coastal habitats,paren
+14,Life below water,Life below water,ocean and marine debris,paren
+14,Life below water,Life below water,ocean and ocean acidification,paren
+14,Life below water,Life below water,ocean and acidification and seawater,paren
+14,Life below water,Life below water,ocean and fishery,paren
+14,Life below water,Life below water,ocean and fisheries,paren
+14,Life below water,Life below water,ocean and overfishing,paren
+14,Life below water,Life below water,ocean and sustainable yield,paren
+14,Life below water,Life below water,ocean and marine protected area,paren
+14,Life below water,Life below water,ocean and marine protected areas,paren
+14,Life below water,Life below water,ocean and marine conservation,paren
+14,Life below water,Life below water,ocean and ecotourism,paren
+14,Life below water,Life below water,ocean and community based conservation,paren
+14,Life below water,Life below water,ocean and community-based conservation,paren
+14,Life below water,Life below water,ocean and marine land slide,paren
+14,Life below water,Life below water,ocean and marine pollution,paren
+14,Life below water,Life below water,ocean and nutrient runoff,paren
+14,Life below water,Life below water,ocean and coastal ecotourism,paren
+14,Life below water,Life below water,ocean and destructive fishing,paren
+14,Life below water,Life below water,ocean and local fisheries,paren
+14,Life below water,Life below water,ocean and artisanal fishers,paren
+14,Life below water,Life below water,ocean and fisheries rights,paren
+14,Life below water,Life below water,ocean and species richness,paren
+14,Life below water,Life below water,ocean and traditional ecological knowledge,paren
+14,Life below water,Life below water,ocean and small Island development states,paren
+14,Life below water,Life below water,ocean and marine quota,paren
+14,Life below water,Life below water,ocean and marine economy,paren
+14,Life below water,Life below water,ocean and marine policy,paren
+14,Life below water,Life below water,oceans and water cycle,paren
+14,Life below water,Life below water,oceans and water cycles,paren
+14,Life below water,Life below water,oceans and biogeochemical cycle,paren
+14,Life below water,Life below water,oceans and biogeochemical cycles,paren
+14,Life below water,Life below water,oceans and oceanic circulation model,paren
+14,Life below water,Life below water,oceans and oceanic circulation models,paren
+14,Life below water,Life below water,oceans and oceanic circulation modelling,paren
+14,Life below water,Life below water,oceans and oceanic circulation modeling,paren
+14,Life below water,Life below water,oceans and ice-ocean,paren
+14,Life below water,Life below water,oceans and eutrophicat*,paren
+14,Life below water,Life below water,oceans and coral bleach,paren
+14,Life below water,Life below water,oceans and coral bleaching,paren
+14,Life below water,Life below water,oceans and coastal management,paren
+14,Life below water,Life below water,oceans and coastal habitat,paren
+14,Life below water,Life below water,oceans and coastal habitats,paren
+14,Life below water,Life below water,oceans and marine debris,paren
+14,Life below water,Life below water,oceans and ocean acidification,paren
+14,Life below water,Life below water,oceans and acidification and seawater,paren
+14,Life below water,Life below water,oceans and fishery,paren
+14,Life below water,Life below water,oceans and fisheries,paren
+14,Life below water,Life below water,oceans and overfishing,paren
+14,Life below water,Life below water,oceans and sustainable yield,paren
+14,Life below water,Life below water,oceans and marine protected area,paren
+14,Life below water,Life below water,oceans and marine protected areas,paren
+14,Life below water,Life below water,oceans and marine conservation,paren
+14,Life below water,Life below water,oceans and ecotourism,paren
+14,Life below water,Life below water,oceans and community based conservation,paren
+14,Life below water,Life below water,oceans and community-based conservation,paren
+14,Life below water,Life below water,oceans and marine land slide,paren
+14,Life below water,Life below water,oceans and marine pollution,paren
+14,Life below water,Life below water,oceans and nutrient runoff,paren
+14,Life below water,Life below water,oceans and coastal ecotourism,paren
+14,Life below water,Life below water,oceans and destructive fishing,paren
+14,Life below water,Life below water,oceans and local fisheries,paren
+14,Life below water,Life below water,oceans and artisanal fishers,paren
+14,Life below water,Life below water,oceans and fisheries rights,paren
+14,Life below water,Life below water,oceans and species richness,paren
+14,Life below water,Life below water,oceans and traditional ecological knowledge,paren
+14,Life below water,Life below water,oceans and small Island development states,paren
+14,Life below water,Life below water,oceans and marine quota,paren
+14,Life below water,Life below water,oceans and marine economy,paren
+14,Life below water,Life below water,oceans and marine policy,paren
+14,Life below water,Life below water,sea and water cycle,paren
+14,Life below water,Life below water,sea and water cycles,paren
+14,Life below water,Life below water,sea and biogeochemical cycle,paren
+14,Life below water,Life below water,sea and biogeochemical cycles,paren
+14,Life below water,Life below water,sea and oceanic circulation model,paren
+14,Life below water,Life below water,sea and oceanic circulation models,paren
+14,Life below water,Life below water,sea and oceanic circulation modelling,paren
+14,Life below water,Life below water,sea and oceanic circulation modeling,paren
+14,Life below water,Life below water,sea and ice-ocean,paren
+14,Life below water,Life below water,sea and eutrophicat*,paren
+14,Life below water,Life below water,sea and coral bleach,paren
+14,Life below water,Life below water,sea and coral bleaching,paren
+14,Life below water,Life below water,sea and coastal management,paren
+14,Life below water,Life below water,sea and coastal habitat,paren
+14,Life below water,Life below water,sea and coastal habitats,paren
+14,Life below water,Life below water,sea and marine debris,paren
+14,Life below water,Life below water,sea and ocean acidification,paren
+14,Life below water,Life below water,sea and acidification and seawater,paren
+14,Life below water,Life below water,sea and fishery,paren
+14,Life below water,Life below water,sea and fisheries,paren
+14,Life below water,Life below water,sea and overfishing,paren
+14,Life below water,Life below water,sea and sustainable yield,paren
+14,Life below water,Life below water,sea and marine protected area,paren
+14,Life below water,Life below water,sea and marine protected areas,paren
+14,Life below water,Life below water,sea and marine conservation,paren
+14,Life below water,Life below water,sea and ecotourism,paren
+14,Life below water,Life below water,sea and community based conservation,paren
+14,Life below water,Life below water,sea and community-based conservation,paren
+14,Life below water,Life below water,sea and marine land slide,paren
+14,Life below water,Life below water,sea and marine pollution,paren
+14,Life below water,Life below water,sea and nutrient runoff,paren
+14,Life below water,Life below water,sea and coastal ecotourism,paren
+14,Life below water,Life below water,sea and destructive fishing,paren
+14,Life below water,Life below water,sea and local fisheries,paren
+14,Life below water,Life below water,sea and artisanal fishers,paren
+14,Life below water,Life below water,sea and fisheries rights,paren
+14,Life below water,Life below water,sea and species richness,paren
+14,Life below water,Life below water,sea and traditional ecological knowledge,paren
+14,Life below water,Life below water,sea and small Island development states,paren
+14,Life below water,Life below water,sea and marine quota,paren
+14,Life below water,Life below water,sea and marine economy,paren
+14,Life below water,Life below water,sea and marine policy,paren
+14,Life below water,Life below water,seas and water cycle,paren
+14,Life below water,Life below water,seas and water cycles,paren
+14,Life below water,Life below water,seas and biogeochemical cycle,paren
+14,Life below water,Life below water,seas and biogeochemical cycles,paren
+14,Life below water,Life below water,seas and oceanic circulation model,paren
+14,Life below water,Life below water,seas and oceanic circulation models,paren
+14,Life below water,Life below water,seas and oceanic circulation modelling,paren
+14,Life below water,Life below water,seas and oceanic circulation modeling,paren
+14,Life below water,Life below water,seas and ice-ocean,paren
+14,Life below water,Life below water,seas and eutrophicat*,paren
+14,Life below water,Life below water,seas and coral bleach,paren
+14,Life below water,Life below water,seas and coral bleaching,paren
+14,Life below water,Life below water,seas and coastal management,paren
+14,Life below water,Life below water,seas and coastal habitat,paren
+14,Life below water,Life below water,seas and coastal habitats,paren
+14,Life below water,Life below water,seas and marine debris,paren
+14,Life below water,Life below water,seas and ocean acidification,paren
+14,Life below water,Life below water,seas and acidification and seawater,paren
+14,Life below water,Life below water,seas and fishery,paren
+14,Life below water,Life below water,seas and fisheries,paren
+14,Life below water,Life below water,seas and overfishing,paren
+14,Life below water,Life below water,seas and sustainable yield,paren
+14,Life below water,Life below water,seas and marine protected area,paren
+14,Life below water,Life below water,seas and marine protected areas,paren
+14,Life below water,Life below water,seas and marine conservation,paren
+14,Life below water,Life below water,seas and ecotourism,paren
+14,Life below water,Life below water,seas and community based conservation,paren
+14,Life below water,Life below water,seas and community-based conservation,paren
+14,Life below water,Life below water,seas and marine land slide,paren
+14,Life below water,Life below water,seas and marine pollution,paren
+14,Life below water,Life below water,seas and nutrient runoff,paren
+14,Life below water,Life below water,seas and coastal ecotourism,paren
+14,Life below water,Life below water,seas and destructive fishing,paren
+14,Life below water,Life below water,seas and local fisheries,paren
+14,Life below water,Life below water,seas and artisanal fishers,paren
+14,Life below water,Life below water,seas and fisheries rights,paren
+14,Life below water,Life below water,seas and species richness,paren
+14,Life below water,Life below water,seas and traditional ecological knowledge,paren
+14,Life below water,Life below water,seas and small Island development states,paren
+14,Life below water,Life below water,seas and marine quota,paren
+14,Life below water,Life below water,seas and marine economy,paren
+14,Life below water,Life below water,seas and marine policy,paren
+14,Life below water,Life below water,coast* and water cycle,paren
+14,Life below water,Life below water,coast* and water cycles,paren
+14,Life below water,Life below water,coast* and biogeochemical cycle,paren
+14,Life below water,Life below water,coast* and biogeochemical cycles,paren
+14,Life below water,Life below water,coast* and oceanic circulation model,paren
+14,Life below water,Life below water,coast* and oceanic circulation models,paren
+14,Life below water,Life below water,coast* and oceanic circulation modelling,paren
+14,Life below water,Life below water,coast* and oceanic circulation modeling,paren
+14,Life below water,Life below water,coast* and ice-ocean,paren
+14,Life below water,Life below water,coast* and eutrophicat*,paren
+14,Life below water,Life below water,coast* and coral bleach,paren
+14,Life below water,Life below water,coast* and coral bleaching,paren
+14,Life below water,Life below water,coast* and coastal management,paren
+14,Life below water,Life below water,coast* and coastal habitat,paren
+14,Life below water,Life below water,coast* and coastal habitats,paren
+14,Life below water,Life below water,coast* and marine debris,paren
+14,Life below water,Life below water,coast* and ocean acidification,paren
+14,Life below water,Life below water,coast* and acidification and seawater,paren
+14,Life below water,Life below water,coast* and fishery,paren
+14,Life below water,Life below water,coast* and fisheries,paren
+14,Life below water,Life below water,coast* and overfishing,paren
+14,Life below water,Life below water,coast* and sustainable yield,paren
+14,Life below water,Life below water,coast* and marine protected area,paren
+14,Life below water,Life below water,coast* and marine protected areas,paren
+14,Life below water,Life below water,coast* and marine conservation,paren
+14,Life below water,Life below water,coast* and ecotourism,paren
+14,Life below water,Life below water,coast* and community based conservation,paren
+14,Life below water,Life below water,coast* and community-based conservation,paren
+14,Life below water,Life below water,coast* and marine land slide,paren
+14,Life below water,Life below water,coast* and marine pollution,paren
+14,Life below water,Life below water,coast* and nutrient runoff,paren
+14,Life below water,Life below water,coast* and coastal ecotourism,paren
+14,Life below water,Life below water,coast* and destructive fishing,paren
+14,Life below water,Life below water,coast* and local fisheries,paren
+14,Life below water,Life below water,coast* and artisanal fishers,paren
+14,Life below water,Life below water,coast* and fisheries rights,paren
+14,Life below water,Life below water,coast* and species richness,paren
+14,Life below water,Life below water,coast* and traditional ecological knowledge,paren
+14,Life below water,Life below water,coast* and small Island development states,paren
+14,Life below water,Life below water,coast* and marine quota,paren
+14,Life below water,Life below water,coast* and marine economy,paren
+14,Life below water,Life below water,coast* and marine policy,paren
+14,Life below water,Life below water,mangrove and water cycle,paren
+14,Life below water,Life below water,mangrove and water cycles,paren
+14,Life below water,Life below water,mangrove and biogeochemical cycle,paren
+14,Life below water,Life below water,mangrove and biogeochemical cycles,paren
+14,Life below water,Life below water,mangrove and oceanic circulation model,paren
+14,Life below water,Life below water,mangrove and oceanic circulation models,paren
+14,Life below water,Life below water,mangrove and oceanic circulation modelling,paren
+14,Life below water,Life below water,mangrove and oceanic circulation modeling,paren
+14,Life below water,Life below water,mangrove and ice-ocean,paren
+14,Life below water,Life below water,mangrove and eutrophicat*,paren
+14,Life below water,Life below water,mangrove and coral bleach,paren
+14,Life below water,Life below water,mangrove and coral bleaching,paren
+14,Life below water,Life below water,mangrove and coastal management,paren
+14,Life below water,Life below water,mangrove and coastal habitat,paren
+14,Life below water,Life below water,mangrove and coastal habitats,paren
+14,Life below water,Life below water,mangrove and marine debris,paren
+14,Life below water,Life below water,mangrove and ocean acidification,paren
+14,Life below water,Life below water,mangrove and acidification and seawater,paren
+14,Life below water,Life below water,mangrove and fishery,paren
+14,Life below water,Life below water,mangrove and fisheries,paren
+14,Life below water,Life below water,mangrove and overfishing,paren
+14,Life below water,Life below water,mangrove and sustainable yield,paren
+14,Life below water,Life below water,mangrove and marine protected area,paren
+14,Life below water,Life below water,mangrove and marine protected areas,paren
+14,Life below water,Life below water,mangrove and marine conservation,paren
+14,Life below water,Life below water,mangrove and ecotourism,paren
+14,Life below water,Life below water,mangrove and community based conservation,paren
+14,Life below water,Life below water,mangrove and community-based conservation,paren
+14,Life below water,Life below water,mangrove and marine land slide,paren
+14,Life below water,Life below water,mangrove and marine pollution,paren
+14,Life below water,Life below water,mangrove and nutrient runoff,paren
+14,Life below water,Life below water,mangrove and coastal ecotourism,paren
+14,Life below water,Life below water,mangrove and destructive fishing,paren
+14,Life below water,Life below water,mangrove and local fisheries,paren
+14,Life below water,Life below water,mangrove and artisanal fishers,paren
+14,Life below water,Life below water,mangrove and fisheries rights,paren
+14,Life below water,Life below water,mangrove and species richness,paren
+14,Life below water,Life below water,mangrove and traditional ecological knowledge,paren
+14,Life below water,Life below water,mangrove and small Island development states,paren
+14,Life below water,Life below water,mangrove and marine quota,paren
+14,Life below water,Life below water,mangrove and marine economy,paren
+14,Life below water,Life below water,mangrove and marine policy,paren
+15,Life on land,Life on land,terrestrial and biodivers*,paren
+15,Life on land,Life on land,terrestrial and species richness,paren
+15,Life on land,Life on land,terrestrial and bioeconom*,paren
+15,Life on land,Life on land,terrestrial and bio-econom*,paren
+15,Life on land,Life on land,terrestrial and biological production,paren
+15,Life on land,Life on land,terrestrial and deforest*,paren
+15,Life on land,Life on land,terrestrial and desertif*,paren
+15,Life on land,Life on land,terrestrial and earth system,paren
+15,Life on land,Life on land,terrestrial and ecological resilience,paren
+15,Life on land,Life on land,terrestrial and ecosystem*,paren
+15,Life on land,Life on land,terrestrial and eco-system*,paren
+15,Life on land,Life on land,terrestrial and trophic cascade,paren
+15,Life on land,Life on land,terrestrial and trophic level,paren
+15,Life on land,Life on land,terrestrial and trophic web,paren
+15,Life on land,Life on land,terrestrial and threatened species,paren
+15,Life on land,Life on land,terrestrial and endangered species,paren
+15,Life on land,Life on land,terrestrial and extinction risk,paren
+15,Life on land,Life on land,terrestrial and extinction risks,paren
+15,Life on land,Life on land,terrestrial and poach*,paren
+15,Life on land,Life on land,terrestrial and wildlife product,paren
+15,Life on land,Life on land,terrestrial and wildlife products,paren
+15,Life on land,Life on land,terrestrial and wildlife traffic,paren
+15,Life on land,Life on land,terrestrial and wildlife market,paren
+15,Life on land,Life on land,terrestrial and wildlife markets,paren
+15,Life on land,Life on land,terrestrial and wildlife trafficking,paren
+15,Life on land,Life on land,terrestrial and invasive species,paren
+15,Life on land,Life on land,terrestrial and alien species,paren
+15,Life on land,Life on land,terrestrial and land uses,paren
+15,Life on land,Life on land,terrestrial and land use,paren
+15,Life on land,Life on land,terrestrial and land uses,paren
+15,Life on land,Life on land,terrestrial and land degradation,paren
+15,Life on land,Life on land,terrestrial and soil degradation,paren
+15,Life on land,Life on land,terrestrial and LULUCF,paren
+15,Life on land,Life on land,terrestrial and forest,paren
+15,Life on land,Life on land,terrestrial and land conservation,paren
+15,Life on land,Life on land,terrestrial and wetland*,paren
+15,Life on land,Life on land,terrestrial and mountain*,paren
+15,Life on land,Life on land,terrestrial and dryland*,paren
+15,Life on land,Life on land,terrestrial and mountainous cover,paren
+15,Life on land,Life on land,terrestrial and protected area,paren
+15,Life on land,Life on land,terrestrial and protected areas,paren
+15,Life on land,Life on land,terrestrial and REDD,paren
+15,Life on land,Life on land,terrestrial and forest management,paren
+15,Life on land,Life on land,terrestrial and silviculture,paren
+15,Life on land,Life on land,terrestrial and timber harvest,paren
+15,Life on land,Life on land,terrestrial and illegal logging,paren
+15,Life on land,Life on land,terrestrial and slash-and-burn,paren
+15,Life on land,Life on land,terrestrial and fire-fallow cultivation,paren
+15,Life on land,Life on land,terrestrial and tree cover,paren
+15,Life on land,Life on land,terrestrial and soil restoration,paren
+15,Life on land,Life on land,terrestrial and land restoration,paren
+15,Life on land,Life on land,terrestrial and drought,paren
+15,Life on land,Life on land,terrestrial and sustainable land management,paren
+15,Life on land,Life on land,terrestrial and mountain vegetation,paren
+15,Life on land,Life on land,terrestrial and habitat restoration,paren
+15,Life on land,Life on land,terrestrial and Red List species,paren
+15,Life on land,Life on land,terrestrial and Red List Index,paren
+15,Life on land,Life on land,terrestrial and extinction wave,paren
+15,Life on land,Life on land,terrestrial and habitat fragmentation,paren
+15,Life on land,Life on land,terrestrial and habitat loss,paren
+15,Life on land,Life on land,terrestrial and Nagoya Protocol on Access to Genetic Resources,paren
+15,Life on land,Life on land,terrestrial and genetic resources,paren
+15,Life on land,Life on land,terrestrial and biological invasion,paren
+15,Life on land,Life on land,terrestrial and biodiversity-inclusive,paren
+15,Life on land,Life on land,terrestrial and forest stewardship council,paren
+15,Life on land,Life on land,terrestrial and rainforest alliance,paren
+15,Life on land,Life on land,terrestrial and forest certification,paren
+15,Life on land,Life on land,terrestrial and forest auditing,paren
+15,Life on land,Life on land,terrestrial and ecotourism,paren
+15,Life on land,Life on land,terrestrial and community-based conservation,paren
+15,Life on land,Life on land,terrestrial and community based conservation,paren
+15,Life on land,Life on land,terrestrial and human-wildlife conflict,paren
+15,Life on land,Life on land,land and biodivers*,paren
+15,Life on land,Life on land,land and species richness,paren
+15,Life on land,Life on land,land and bioeconom*,paren
+15,Life on land,Life on land,land and bio-econom*,paren
+15,Life on land,Life on land,land and biological production,paren
+15,Life on land,Life on land,land and deforest*,paren
+15,Life on land,Life on land,land and desertif*,paren
+15,Life on land,Life on land,land and earth system,paren
+15,Life on land,Life on land,land and ecological resilience,paren
+15,Life on land,Life on land,land and ecosystem*,paren
+15,Life on land,Life on land,land and eco-system*,paren
+15,Life on land,Life on land,land and trophic cascade,paren
+15,Life on land,Life on land,land and trophic level,paren
+15,Life on land,Life on land,land and trophic web,paren
+15,Life on land,Life on land,land and threatened species,paren
+15,Life on land,Life on land,land and endangered species,paren
+15,Life on land,Life on land,land and extinction risk,paren
+15,Life on land,Life on land,land and extinction risks,paren
+15,Life on land,Life on land,land and poach*,paren
+15,Life on land,Life on land,land and wildlife product,paren
+15,Life on land,Life on land,land and wildlife products,paren
+15,Life on land,Life on land,land and wildlife traffic,paren
+15,Life on land,Life on land,land and wildlife market,paren
+15,Life on land,Life on land,land and wildlife markets,paren
+15,Life on land,Life on land,land and wildlife trafficking,paren
+15,Life on land,Life on land,land and invasive species,paren
+15,Life on land,Life on land,land and alien species,paren
+15,Life on land,Life on land,land and land uses,paren
+15,Life on land,Life on land,land and land use,paren
+15,Life on land,Life on land,land and land uses,paren
+15,Life on land,Life on land,land and land degradation,paren
+15,Life on land,Life on land,land and soil degradation,paren
+15,Life on land,Life on land,land and LULUCF,paren
+15,Life on land,Life on land,land and forest,paren
+15,Life on land,Life on land,land and land conservation,paren
+15,Life on land,Life on land,land and wetland*,paren
+15,Life on land,Life on land,land and mountain*,paren
+15,Life on land,Life on land,land and dryland*,paren
+15,Life on land,Life on land,land and mountainous cover,paren
+15,Life on land,Life on land,land and protected area,paren
+15,Life on land,Life on land,land and protected areas,paren
+15,Life on land,Life on land,land and REDD,paren
+15,Life on land,Life on land,land and forest management,paren
+15,Life on land,Life on land,land and silviculture,paren
+15,Life on land,Life on land,land and timber harvest,paren
+15,Life on land,Life on land,land and illegal logging,paren
+15,Life on land,Life on land,land and slash-and-burn,paren
+15,Life on land,Life on land,land and fire-fallow cultivation,paren
+15,Life on land,Life on land,land and tree cover,paren
+15,Life on land,Life on land,land and soil restoration,paren
+15,Life on land,Life on land,land and land restoration,paren
+15,Life on land,Life on land,land and drought,paren
+15,Life on land,Life on land,land and sustainable land management,paren
+15,Life on land,Life on land,land and mountain vegetation,paren
+15,Life on land,Life on land,land and habitat restoration,paren
+15,Life on land,Life on land,land and Red List species,paren
+15,Life on land,Life on land,land and Red List Index,paren
+15,Life on land,Life on land,land and extinction wave,paren
+15,Life on land,Life on land,land and habitat fragmentation,paren
+15,Life on land,Life on land,land and habitat loss,paren
+15,Life on land,Life on land,land and Nagoya Protocol on Access to Genetic Resources,paren
+15,Life on land,Life on land,land and genetic resources,paren
+15,Life on land,Life on land,land and biological invasion,paren
+15,Life on land,Life on land,land and biodiversity-inclusive,paren
+15,Life on land,Life on land,land and forest stewardship council,paren
+15,Life on land,Life on land,land and rainforest alliance,paren
+15,Life on land,Life on land,land and forest certification,paren
+15,Life on land,Life on land,land and forest auditing,paren
+15,Life on land,Life on land,land and ecotourism,paren
+15,Life on land,Life on land,land and community-based conservation,paren
+15,Life on land,Life on land,land and community based conservation,paren
+15,Life on land,Life on land,land and human-wildlife conflict,paren
+15,Life on land,Life on land,inland and biodivers*,paren
+15,Life on land,Life on land,inland and species richness,paren
+15,Life on land,Life on land,inland and bioeconom*,paren
+15,Life on land,Life on land,inland and bio-econom*,paren
+15,Life on land,Life on land,inland and biological production,paren
+15,Life on land,Life on land,inland and deforest*,paren
+15,Life on land,Life on land,inland and desertif*,paren
+15,Life on land,Life on land,inland and earth system,paren
+15,Life on land,Life on land,inland and ecological resilience,paren
+15,Life on land,Life on land,inland and ecosystem*,paren
+15,Life on land,Life on land,inland and eco-system*,paren
+15,Life on land,Life on land,inland and trophic cascade,paren
+15,Life on land,Life on land,inland and trophic level,paren
+15,Life on land,Life on land,inland and trophic web,paren
+15,Life on land,Life on land,inland and threatened species,paren
+15,Life on land,Life on land,inland and endangered species,paren
+15,Life on land,Life on land,inland and extinction risk,paren
+15,Life on land,Life on land,inland and extinction risks,paren
+15,Life on land,Life on land,inland and poach*,paren
+15,Life on land,Life on land,inland and wildlife product,paren
+15,Life on land,Life on land,inland and wildlife products,paren
+15,Life on land,Life on land,inland and wildlife traffic,paren
+15,Life on land,Life on land,inland and wildlife market,paren
+15,Life on land,Life on land,inland and wildlife markets,paren
+15,Life on land,Life on land,inland and wildlife trafficking,paren
+15,Life on land,Life on land,inland and invasive species,paren
+15,Life on land,Life on land,inland and alien species,paren
+15,Life on land,Life on land,inland and land uses,paren
+15,Life on land,Life on land,inland and land use,paren
+15,Life on land,Life on land,inland and land uses,paren
+15,Life on land,Life on land,inland and land degradation,paren
+15,Life on land,Life on land,inland and soil degradation,paren
+15,Life on land,Life on land,inland and LULUCF,paren
+15,Life on land,Life on land,inland and forest,paren
+15,Life on land,Life on land,inland and land conservation,paren
+15,Life on land,Life on land,inland and wetland*,paren
+15,Life on land,Life on land,inland and mountain*,paren
+15,Life on land,Life on land,inland and dryland*,paren
+15,Life on land,Life on land,inland and mountainous cover,paren
+15,Life on land,Life on land,inland and protected area,paren
+15,Life on land,Life on land,inland and protected areas,paren
+15,Life on land,Life on land,inland and REDD,paren
+15,Life on land,Life on land,inland and forest management,paren
+15,Life on land,Life on land,inland and silviculture,paren
+15,Life on land,Life on land,inland and timber harvest,paren
+15,Life on land,Life on land,inland and illegal logging,paren
+15,Life on land,Life on land,inland and slash-and-burn,paren
+15,Life on land,Life on land,inland and fire-fallow cultivation,paren
+15,Life on land,Life on land,inland and tree cover,paren
+15,Life on land,Life on land,inland and soil restoration,paren
+15,Life on land,Life on land,inland and land restoration,paren
+15,Life on land,Life on land,inland and drought,paren
+15,Life on land,Life on land,inland and sustainable land management,paren
+15,Life on land,Life on land,inland and mountain vegetation,paren
+15,Life on land,Life on land,inland and habitat restoration,paren
+15,Life on land,Life on land,inland and Red List species,paren
+15,Life on land,Life on land,inland and Red List Index,paren
+15,Life on land,Life on land,inland and extinction wave,paren
+15,Life on land,Life on land,inland and habitat fragmentation,paren
+15,Life on land,Life on land,inland and habitat loss,paren
+15,Life on land,Life on land,inland and Nagoya Protocol on Access to Genetic Resources,paren
+15,Life on land,Life on land,inland and genetic resources,paren
+15,Life on land,Life on land,inland and biological invasion,paren
+15,Life on land,Life on land,inland and biodiversity-inclusive,paren
+15,Life on land,Life on land,inland and forest stewardship council,paren
+15,Life on land,Life on land,inland and rainforest alliance,paren
+15,Life on land,Life on land,inland and forest certification,paren
+15,Life on land,Life on land,inland and forest auditing,paren
+15,Life on land,Life on land,inland and ecotourism,paren
+15,Life on land,Life on land,inland and community-based conservation,paren
+15,Life on land,Life on land,inland and community based conservation,paren
+15,Life on land,Life on land,inland and human-wildlife conflict,paren
+15,Life on land,Life on land,freshwater and biodivers*,paren
+15,Life on land,Life on land,freshwater and species richness,paren
+15,Life on land,Life on land,freshwater and bioeconom*,paren
+15,Life on land,Life on land,freshwater and bio-econom*,paren
+15,Life on land,Life on land,freshwater and biological production,paren
+15,Life on land,Life on land,freshwater and deforest*,paren
+15,Life on land,Life on land,freshwater and desertif*,paren
+15,Life on land,Life on land,freshwater and earth system,paren
+15,Life on land,Life on land,freshwater and ecological resilience,paren
+15,Life on land,Life on land,freshwater and ecosystem*,paren
+15,Life on land,Life on land,freshwater and eco-system*,paren
+15,Life on land,Life on land,freshwater and trophic cascade,paren
+15,Life on land,Life on land,freshwater and trophic level,paren
+15,Life on land,Life on land,freshwater and trophic web,paren
+15,Life on land,Life on land,freshwater and threatened species,paren
+15,Life on land,Life on land,freshwater and endangered species,paren
+15,Life on land,Life on land,freshwater and extinction risk,paren
+15,Life on land,Life on land,freshwater and extinction risks,paren
+15,Life on land,Life on land,freshwater and poach*,paren
+15,Life on land,Life on land,freshwater and wildlife product,paren
+15,Life on land,Life on land,freshwater and wildlife products,paren
+15,Life on land,Life on land,freshwater and wildlife traffic,paren
+15,Life on land,Life on land,freshwater and wildlife market,paren
+15,Life on land,Life on land,freshwater and wildlife markets,paren
+15,Life on land,Life on land,freshwater and wildlife trafficking,paren
+15,Life on land,Life on land,freshwater and invasive species,paren
+15,Life on land,Life on land,freshwater and alien species,paren
+15,Life on land,Life on land,freshwater and land uses,paren
+15,Life on land,Life on land,freshwater and land use,paren
+15,Life on land,Life on land,freshwater and land uses,paren
+15,Life on land,Life on land,freshwater and land degradation,paren
+15,Life on land,Life on land,freshwater and soil degradation,paren
+15,Life on land,Life on land,freshwater and LULUCF,paren
+15,Life on land,Life on land,freshwater and forest,paren
+15,Life on land,Life on land,freshwater and land conservation,paren
+15,Life on land,Life on land,freshwater and wetland*,paren
+15,Life on land,Life on land,freshwater and mountain*,paren
+15,Life on land,Life on land,freshwater and dryland*,paren
+15,Life on land,Life on land,freshwater and mountainous cover,paren
+15,Life on land,Life on land,freshwater and protected area,paren
+15,Life on land,Life on land,freshwater and protected areas,paren
+15,Life on land,Life on land,freshwater and REDD,paren
+15,Life on land,Life on land,freshwater and forest management,paren
+15,Life on land,Life on land,freshwater and silviculture,paren
+15,Life on land,Life on land,freshwater and timber harvest,paren
+15,Life on land,Life on land,freshwater and illegal logging,paren
+15,Life on land,Life on land,freshwater and slash-and-burn,paren
+15,Life on land,Life on land,freshwater and fire-fallow cultivation,paren
+15,Life on land,Life on land,freshwater and tree cover,paren
+15,Life on land,Life on land,freshwater and soil restoration,paren
+15,Life on land,Life on land,freshwater and land restoration,paren
+15,Life on land,Life on land,freshwater and drought,paren
+15,Life on land,Life on land,freshwater and sustainable land management,paren
+15,Life on land,Life on land,freshwater and mountain vegetation,paren
+15,Life on land,Life on land,freshwater and habitat restoration,paren
+15,Life on land,Life on land,freshwater and Red List species,paren
+15,Life on land,Life on land,freshwater and Red List Index,paren
+15,Life on land,Life on land,freshwater and extinction wave,paren
+15,Life on land,Life on land,freshwater and habitat fragmentation,paren
+15,Life on land,Life on land,freshwater and habitat loss,paren
+15,Life on land,Life on land,freshwater and Nagoya Protocol on Access to Genetic Resources,paren
+15,Life on land,Life on land,freshwater and genetic resources,paren
+15,Life on land,Life on land,freshwater and biological invasion,paren
+15,Life on land,Life on land,freshwater and biodiversity-inclusive,paren
+15,Life on land,Life on land,freshwater and forest stewardship council,paren
+15,Life on land,Life on land,freshwater and rainforest alliance,paren
+15,Life on land,Life on land,freshwater and forest certification,paren
+15,Life on land,Life on land,freshwater and forest auditing,paren
+15,Life on land,Life on land,freshwater and ecotourism,paren
+15,Life on land,Life on land,freshwater and community-based conservation,paren
+15,Life on land,Life on land,freshwater and community based conservation,paren
+15,Life on land,Life on land,freshwater and human-wildlife conflict,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",actual innocence,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",false confession,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",armed conflict,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",armed conflicts,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",civil conflict,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",civil conflicts,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",war conflict,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",war warfare,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",war democracy,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",war Geneva Convention,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",war treaty,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",war peace,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",peacekeeping,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",corruption institution,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",corruption public official,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",corruption government,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",corruption bribery,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",corruption conflict,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",crime,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",crimes,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",criminal,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",democratic deficit,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",democrati?ation institutional,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",democrati?ation conflict,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",democrati?ation decision-making,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",democrati?ation society,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",democrati?ation politics,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",democrati?ation financial aid,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",ethnic conflict,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",ethnic conflicts,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",exoneration,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",genocid*,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",homicid*,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",murder*,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",human trafficking,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",criminal justice system,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",justice system,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",arbitrary justice,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",refugee*,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",terroris*,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",violence,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",torture,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",effective rule of law,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",arms flow,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",transparent institution,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",transparent institutions,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",good governance,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",legal identity for all,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",freedom of information,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",human rights institution,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",human rights activists,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",fundamental freedom,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",fundamental freedoms,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",violent conflict,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",violent conflicts,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",peaceful society,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",effective institution,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",effective institutions,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",accountable institution,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",accountable institutions,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",inclusive institution,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",inclusive institutions,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",child abuse,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",arbitrary detention,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",unsentenced detention,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",judicial system,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",criminal tribunal,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",inclusive society,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",inclusive societies,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",responsive institution,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",responsive institutions,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",fair society,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",fair societies,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",legal remedy,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",legal remedies,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",independence of judiciary,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",independent judiciary,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",separation of powers,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",extremism,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",war crime,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",peaceful society,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",organized crime,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",illicit transfer,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",illicit money,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",arms trafficking,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",cybercrime,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",insurgence,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",democratic institution,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",political instability,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",political decision-making responsive,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",political decision-making inclusive,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",political decision-making participatory,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",political decision-making representative,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",Aarhus Convention,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",press freedom,paren
+16,"Peace, justice and strong institutions","Peace, justice and strong institutions",freedom of speech,paren
+17,Partnerships for the Goals,Partnerships for the goals,tax transition,paren
+17,Partnerships for the Goals,Partnerships for the goals,tax system,paren
+17,Partnerships for the Goals,Partnerships for the goals,tax policy,paren
+17,Partnerships for the Goals,Partnerships for the goals,tax policies,paren
+17,Partnerships for the Goals,Partnerships for the goals,excise duty,paren
+17,Partnerships for the Goals,Partnerships for the goals,excise duties,paren
+17,Partnerships for the Goals,Partnerships for the goals,excise tax,paren
+17,Partnerships for the Goals,Partnerships for the goals,excise taxes,paren
+17,Partnerships for the Goals,Partnerships for the goals,revenue collection,paren
+17,Partnerships for the Goals,Partnerships for the goals,cycle of money,paren
+17,Partnerships for the Goals,Partnerships for the goals,slippery slope framework,paren
+17,Partnerships for the Goals,Partnerships for the goals,tax morale,paren
+17,Partnerships for the Goals,Partnerships for the goals,tax administration,paren
+17,Partnerships for the Goals,Partnerships for the goals,tax avoidance,paren
+17,Partnerships for the Goals,Partnerships for the goals,business tax,paren
+17,Partnerships for the Goals,Partnerships for the goals,corporate tax,paren
+17,Partnerships for the Goals,Partnerships for the goals,inheritance tax,paren
+17,Partnerships for the Goals,Partnerships for the goals,international tax,paren
+17,Partnerships for the Goals,Partnerships for the goals,shadow economy,paren
+17,Partnerships for the Goals,Partnerships for the goals,tax behaviour,paren
+17,Partnerships for the Goals,Partnerships for the goals,tax efficiency,paren
+17,Partnerships for the Goals,Partnerships for the goals,value added tax,paren
+17,Partnerships for the Goals,Partnerships for the goals,fiscal policy,paren
+17,Partnerships for the Goals,Partnerships for the goals,monetary policy,paren
+17,Partnerships for the Goals,Partnerships for the goals,informal economy,paren
+17,Partnerships for the Goals,Partnerships for the goals,informal sector,paren
+17,Partnerships for the Goals,Partnerships for the goals,envelope wage,paren
+17,Partnerships for the Goals,Partnerships for the goals,underground economy,paren
+17,Partnerships for the Goals,Partnerships for the goals,underground sector,paren
+17,Partnerships for the Goals,Partnerships for the goals,informal employment,paren
+17,Partnerships for the Goals,Partnerships for the goals,undeclared work,paren
+17,Partnerships for the Goals,Partnerships for the goals,underdeclared employment,paren
+17,Partnerships for the Goals,Partnerships for the goals,hidden economy,paren
+17,Partnerships for the Goals,Partnerships for the goals,black economy,paren
+17,Partnerships for the Goals,Partnerships for the goals,money laundering,paren
+17,Partnerships for the Goals,Partnerships for the goals,tax evasion,paren
+17,Partnerships for the Goals,Partnerships for the goals,VAT gap,paren
+17,Partnerships for the Goals,Partnerships for the goals,VAT fraud,paren
+17,Partnerships for the Goals,Partnerships for the goals,currency demand approach,paren
+17,Partnerships for the Goals,Partnerships for the goals,base erosion and profit shifting,paren
+17,Partnerships for the Goals,Partnerships for the goals,BEPS,paren
+17,Partnerships for the Goals,Partnerships for the goals,transfer pricing,paren
+17,Partnerships for the Goals,Partnerships for the goals,tax treaty,paren
+17,Partnerships for the Goals,Partnerships for the goals,tax treaties,paren
+17,Partnerships for the Goals,Partnerships for the goals,taxation of capital,paren
+17,Partnerships for the Goals,Partnerships for the goals,endogenous growth,paren
+17,Partnerships for the Goals,Partnerships for the goals,public capital,paren
+17,Partnerships for the Goals,Partnerships for the goals,official development assistance,paren
+17,Partnerships for the Goals,Partnerships for the goals,ODA,paren
+17,Partnerships for the Goals,Partnerships for the goals,development assistance,paren
+17,Partnerships for the Goals,Partnerships for the goals,foreign aid,paren
+17,Partnerships for the Goals,Partnerships for the goals,development aid,paren
+17,Partnerships for the Goals,Partnerships for the goals,development cooperation,paren
+17,Partnerships for the Goals,Partnerships for the goals,international development cooperation,paren
+17,Partnerships for the Goals,Partnerships for the goals,global civil society,paren
+17,Partnerships for the Goals,Partnerships for the goals,international cooperation,paren
+17,Partnerships for the Goals,Partnerships for the goals,international public finance,paren
+17,Partnerships for the Goals,Partnerships for the goals,shared prosperity,paren
+17,Partnerships for the Goals,Partnerships for the goals,bilateral aid,paren
+17,Partnerships for the Goals,Partnerships for the goals,foreign direct investment,paren
+17,Partnerships for the Goals,Partnerships for the goals,foreign investment,paren
+17,Partnerships for the Goals,Partnerships for the goals,developing,paren
+17,Partnerships for the Goals,Partnerships for the goals,belt and road initiative,paren
+17,Partnerships for the Goals,Partnerships for the goals,cross border cooperation,paren
+17,Partnerships for the Goals,Partnerships for the goals,cross border collaboration,paren
+17,Partnerships for the Goals,Partnerships for the goals,non government development organization,paren
+17,Partnerships for the Goals,Partnerships for the goals,NGDO,paren
+17,Partnerships for the Goals,Partnerships for the goals,north-south cooperation,paren
+17,Partnerships for the Goals,Partnerships for the goals,north-south partnerships,paren
+17,Partnerships for the Goals,Partnerships for the goals,north-south collaboration,paren
+17,Partnerships for the Goals,Partnerships for the goals,north-south research partnerships,paren
+17,Partnerships for the Goals,Partnerships for the goals,developing country,paren
+17,Partnerships for the Goals,Partnerships for the goals,poor country,paren
+17,Partnerships for the Goals,Partnerships for the goals,emerging country,paren
+17,Partnerships for the Goals,Partnerships for the goals,developing world,paren
+17,Partnerships for the Goals,Partnerships for the goals,developing nation,paren
+17,Partnerships for the Goals,Partnerships for the goals,developing state,paren
+17,Partnerships for the Goals,Partnerships for the goals,developing states,paren
+17,Partnerships for the Goals,Partnerships for the goals,low income country,paren
+17,Partnerships for the Goals,Partnerships for the goals,middle income country,paren
+17,Partnerships for the Goals,Partnerships for the goals,low income nation,paren
+17,Partnerships for the Goals,Partnerships for the goals,middle income nation,paren
+17,Partnerships for the Goals,Partnerships for the goals,low income state,paren
+17,Partnerships for the Goals,Partnerships for the goals,middle income state,paren
+17,Partnerships for the Goals,Partnerships for the goals,least developed country,paren
+17,Partnerships for the Goals,Partnerships for the goals,least developed nation,paren
+17,Partnerships for the Goals,Partnerships for the goals,least developed state,paren
+17,Partnerships for the Goals,Partnerships for the goals,promotion regime,paren
+17,Partnerships for the Goals,Partnerships for the goals,investment regime,paren
+17,Partnerships for the Goals,Partnerships for the goals,foreign investment,paren
+17,Partnerships for the Goals,Partnerships for the goals,foreign trade,paren
+17,Partnerships for the Goals,Partnerships for the goals,trade relations,paren
+17,Partnerships for the Goals,Partnerships for the goals,trade regime,paren
+17,Partnerships for the Goals,Partnerships for the goals,trade promotion,paren
+17,Partnerships for the Goals,Partnerships for the goals,international investment,paren
+17,Partnerships for the Goals,Partnerships for the goals,international investment agreement,paren
+17,Partnerships for the Goals,Partnerships for the goals,trade and investment,paren
+17,Partnerships for the Goals,Partnerships for the goals,trade,paren
+17,Partnerships for the Goals,Partnerships for the goals,investment,paren
+17,Partnerships for the Goals,Partnerships for the goals,capital flight,paren
+17,Partnerships for the Goals,Partnerships for the goals,FDI,paren
+17,Partnerships for the Goals,Partnerships for the goals,WTO,paren
+17,Partnerships for the Goals,Partnerships for the goals,WTO accession,paren
+17,Partnerships for the Goals,Partnerships for the goals,FDI inflow,paren
+17,Partnerships for the Goals,Partnerships for the goals,trade rule,paren
+17,Partnerships for the Goals,Partnerships for the goals,international trade,paren
+17,Partnerships for the Goals,Partnerships for the goals,international trade law,paren
+17,Partnerships for the Goals,Partnerships for the goals,trade openness,paren
+17,Partnerships for the Goals,Partnerships for the goals,trade shock,paren
+17,Partnerships for the Goals,Partnerships for the goals,ISDS,paren
+17,Partnerships for the Goals,Partnerships for the goals,RCEP,paren
+17,Partnerships for the Goals,Partnerships for the goals,bilateral investment treaty,paren
+17,Partnerships for the Goals,Partnerships for the goals,investment treaty,paren
+17,Partnerships for the Goals,Partnerships for the goals,economic statecraft,paren
+17,Partnerships for the Goals,Partnerships for the goals,world trade organisation,paren
+17,Partnerships for the Goals,Partnerships for the goals,economic integration,paren
+17,Partnerships for the Goals,Partnerships for the goals,economic development board,paren
+17,Partnerships for the Goals,Partnerships for the goals,economic cooperation,paren
+17,Partnerships for the Goals,Partnerships for the goals,EDB,paren
+17,Partnerships for the Goals,Partnerships for the goals,trade liberalisation,paren
+17,Partnerships for the Goals,Partnerships for the goals,import competition,paren
+17,Partnerships for the Goals,Partnerships for the goals,cross-border e-commerce,paren
+17,Partnerships for the Goals,Partnerships for the goals,free trade agreement,paren
+17,Partnerships for the Goals,Partnerships for the goals,regional integration,paren
+17,Partnerships for the Goals,Partnerships for the goals,NAFTA,paren
+17,Partnerships for the Goals,Partnerships for the goals,north american free trade agreement,paren
+17,Partnerships for the Goals,Partnerships for the goals,debt sustainability,paren
+17,Partnerships for the Goals,Partnerships for the goals,debt relief,paren
+17,Partnerships for the Goals,Partnerships for the goals,debt restructuring,paren
+17,Partnerships for the Goals,Partnerships for the goals,debt structuring,paren
+17,Partnerships for the Goals,Partnerships for the goals,sovereign default,paren
+17,Partnerships for the Goals,Partnerships for the goals,sovereign debt restructuring,paren
+17,Partnerships for the Goals,Partnerships for the goals,sovereign debt structuring,paren
+17,Partnerships for the Goals,Partnerships for the goals,Paris Club,paren
+17,Partnerships for the Goals,Partnerships for the goals,Highly Indebted Poor Countries Initiative,paren
+17,Partnerships for the Goals,Partnerships for the goals,HIPC Initiative,paren
+17,Partnerships for the Goals,Partnerships for the goals,HIPC,paren
+17,Partnerships for the Goals,Partnerships for the goals,debt,paren
+17,Partnerships for the Goals,Partnerships for the goals,public debt,paren
+17,Partnerships for the Goals,Partnerships for the goals,external debt,paren
+17,Partnerships for the Goals,Partnerships for the goals,foreign debt,paren
+17,Partnerships for the Goals,Partnerships for the goals,vulture fund,paren
+17,Partnerships for the Goals,Partnerships for the goals,Collective Action Clause,paren
+17,Partnerships for the Goals,Partnerships for the goals,Debt Collection,paren
+17,Partnerships for the Goals,Partnerships for the goals,Relief Provision,paren
+17,Partnerships for the Goals,Partnerships for the goals,fiscal sustainability,paren
+17,Partnerships for the Goals,Partnerships for the goals,insolvency,paren
+17,Partnerships for the Goals,Partnerships for the goals,financial distress,paren
+17,Partnerships for the Goals,Partnerships for the goals,debt maturity,paren
+17,Partnerships for the Goals,Partnerships for the goals,fiscal rule,paren
+17,Partnerships for the Goals,Partnerships for the goals,debt crisis,paren
+17,Partnerships for the Goals,Partnerships for the goals,fiscal space,paren
+17,Partnerships for the Goals,Partnerships for the goals,fiscal recovery,paren
+17,Partnerships for the Goals,Partnerships for the goals,sovereign bond,paren
+17,Partnerships for the Goals,Partnerships for the goals,government debt,paren
+17,Partnerships for the Goals,Partnerships for the goals,debt overhang,paren
+17,Partnerships for the Goals,Partnerships for the goals,Fiscal Reaction Function,paren
+17,Partnerships for the Goals,Partnerships for the goals,Sovereign credit risk,paren
+17,Partnerships for the Goals,Partnerships for the goals,primary balance,paren
+17,Partnerships for the Goals,Partnerships for the goals,debt management,paren
+17,Partnerships for the Goals,Partnerships for the goals,domestic debt,paren
+17,Partnerships for the Goals,Partnerships for the goals,debt dynamic,paren
+17,Partnerships for the Goals,Partnerships for the goals,international debt,paren
+17,Partnerships for the Goals,Partnerships for the goals,scheme of arrangement,paren
+17,Partnerships for the Goals,Partnerships for the goals,exit consent,paren
+17,Partnerships for the Goals,Partnerships for the goals,borrower,paren
+17,Partnerships for the Goals,Partnerships for the goals,sovereign risk,paren
+17,Partnerships for the Goals,Partnerships for the goals,pari passu,paren
+17,Partnerships for the Goals,Partnerships for the goals,debt service,paren
+17,Partnerships for the Goals,Partnerships for the goals,debt reduction,paren
+17,Partnerships for the Goals,Partnerships for the goals,public finance,paren
+17,Partnerships for the Goals,Partnerships for the goals,global health,paren
+17,Partnerships for the Goals,Partnerships for the goals,international cooperation,paren
+17,Partnerships for the Goals,Partnerships for the goals,international collaboration,paren
+17,Partnerships for the Goals,Partnerships for the goals,international partnership,paren
+17,Partnerships for the Goals,Partnerships for the goals,regional cooperation,paren
+17,Partnerships for the Goals,Partnerships for the goals,regional collaboration,paren
+17,Partnerships for the Goals,Partnerships for the goals,regional partnership,paren
+17,Partnerships for the Goals,Partnerships for the goals,climate change,paren
+17,Partnerships for the Goals,Partnerships for the goals,global warming,paren
+17,Partnerships for the Goals,Partnerships for the goals,ecology,paren
+17,Partnerships for the Goals,Partnerships for the goals,green development,paren
